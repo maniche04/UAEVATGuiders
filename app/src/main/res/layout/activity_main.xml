@@ -72,7 +72,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="8dp"
                     android:fontFamily="@font/cantarell"
-                    android:text="Decree on VAT"
+                    android:text="UAE VAT Act"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold" />
