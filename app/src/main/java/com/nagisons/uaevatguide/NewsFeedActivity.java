@@ -21,6 +21,7 @@ public class NewsFeedActivity extends AppCompatActivity {
         this.toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         this.setTitle("Latest UAE VAT News");
+        this.populateUsersList();
     }
 
     private void populateUsersList() {
