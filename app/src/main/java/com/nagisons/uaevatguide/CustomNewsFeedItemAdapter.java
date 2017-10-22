@@ -33,6 +33,14 @@ public class CustomNewsFeedItemAdapter extends ArrayAdapter<NewsFeedItem> {
         // Populate the data into the template view using the data object
         newsTitle.setText(newsItem.getNewsTitle());
         // Return the completed view to render on screen
+        TextView newsTime = (TextView) convertView.findViewById(R.id.newsTime);
+        // Populate the data into the template view using the data object
+        newsTime.setText(newsItem.getNewsTime());
+        TextView newsSource = (TextView) convertView.findViewById(R.id.newsSource);
+        // Populate the data into the template view using the data object
+        newsSource.setText(newsItem.getNewsSource());
         return convertView;
+
+
     }
 }
