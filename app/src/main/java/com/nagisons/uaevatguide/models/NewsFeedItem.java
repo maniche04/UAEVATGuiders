@@ -1,5 +1,7 @@
 package com.nagisons.uaevatguide.models;
 
+import java.util.Date;
+
 /**
  * Created by manish on 10/21/17.
  */
@@ -10,6 +12,8 @@ public class NewsFeedItem {
     public String newsTime;
     public String newsSource;
     public String newsUrl;
+    public String newsSummary;
+    public Date newsDate;
 
     public String getNewsTitle() {
         return newsTitle;
@@ -41,5 +45,21 @@ public class NewsFeedItem {
 
     public void setNewsUrl(String newsUrl) {
         this.newsUrl = newsUrl;
+    }
+
+    public String getNewsSummary() {
+        return newsSummary;
+    }
+
+    public void setNewsSummary(String newsSummary) {
+        this.newsSummary = newsSummary;
+    }
+
+    public Date getNewsDate() {
+        return newsDate;
+    }
+
+    public void setNewsDate(Date milliTime) {
+        this.newsDate = milliTime;
     }
 }

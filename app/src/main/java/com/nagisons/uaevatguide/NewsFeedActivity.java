@@ -10,6 +10,8 @@ import com.nagisons.uaevatguide.helpers.GoogleNewsParser;
 import com.nagisons.uaevatguide.models.NewsFeedItem;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 
 public class NewsFeedActivity extends AppCompatActivity {
 
@@ -40,6 +42,12 @@ public class NewsFeedActivity extends AppCompatActivity {
             try {
                 try {
                     googleNews.fetchNews();
+                    Collections.sort(googleNews.feeds, new Comparator<NewsFeedItem>() {
+                        @Override
+                        public int compare(NewsFeedItem o1, NewsFeedItem o2) {
+                            return o2.getNewsDate().compareTo(o1.getNewsDate());
+                        }
+                    });
                     return googleNews.feeds;
                 } catch (Exception e) {
                     e.printStackTrace();

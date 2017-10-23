@@ -82,6 +82,17 @@
                         android:text="Trump’s Plan for AmericanMade iPhonew Wold Be Disastrous. Trump’s Plan for AmericanMade iPhonew Wold Be Disastrous"
                         android:textSize="17dp" />
 
+                    <TextView
+                        android:id="@+id/newsSummary"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/cantarell"
+                        android:text="Why even a President Trump couldn’t make Apple manufacture iPhone in the state."
+                        android:layout_marginTop="13dp"
+                        android:textSize="13dp"
+                        android:lineSpacingExtra="3dp"
+                        />
+
 
                 </LinearLayout>
 

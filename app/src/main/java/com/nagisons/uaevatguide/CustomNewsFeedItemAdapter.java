@@ -39,6 +39,9 @@ public class CustomNewsFeedItemAdapter extends ArrayAdapter<NewsFeedItem> {
         TextView newsSource = (TextView) convertView.findViewById(R.id.newsSource);
         // Populate the data into the template view using the data object
         newsSource.setText(newsItem.getNewsSource());
+        TextView newsSummary = (TextView) convertView.findViewById(R.id.newsSummary);
+        // Populate the data into the template view using the data object
+        newsSummary.setText(newsItem.getNewsSummary());
         return convertView;
 
 

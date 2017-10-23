@@ -21,7 +21,8 @@ import java.util.regex.Pattern;
 
 public class GoogleNewsParser {
 
-    private String BASE_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Fnews%2Frss%2Fsearch%2Fsection%2Fq%2Fuae%2520vat%2Fuae%2520vat%3Fhl%3Den%26ned%3Dus";
+//    private String BASE_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Fnews%2Frss%2Fsearch%2Fsection%2Fq%2Fuae%2520vat%2Fuae%2520vat%3Fhl%3Den%26ned%3Dus";
+    private String BASE_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.bing.com%2Fnews%2Fsearch%3Fq%3Duae%2Bvat%26go%3DSearch%26qs%3Dds%26form%3DQBNT%26format%3Drss";
     private HttpClient http;
 
     public ArrayList<NewsFeedItem> feeds = new ArrayList<NewsFeedItem>();
@@ -43,19 +44,28 @@ public class GoogleNewsParser {
                 JSONObject oneObject = jArray.getJSONObject(i);
                 // Pulling items from the array
                 NewsFeedItem news = new NewsFeedItem();
-                news.setNewsTitle(oneObject.getString("title"));
-                news.setNewsUrl(oneObject.getString("link"));
+                news.setNewsTitle(oneObject.getString("title").replace("&amp;","&"));
+                String purelink = oneObject.getString("link");
+                System.out.println("Old Link -> " + purelink);
+                Pattern pattern = Pattern.compile("(?:url=)(.*?)(?:&amp;)");
+                Matcher matcher = pattern.matcher(purelink);
+                while (matcher.find()) {
+                    purelink = matcher.group(1);
+                }
+                System.out.println("New Link -> " + purelink);
+                String link = java.net.URLDecoder.decode(purelink, "UTF-8");
+                news.setNewsUrl(link);
 //                news.setNewsTime(oneObject.getString("pubDate"));
                 Date date = inputFormat.parse(oneObject.getString("pubDate"));
+                news.setNewsDate(date);
                 String niceDateStr = (String) DateUtils.getRelativeTimeSpanString(date.getTime() , Calendar.getInstance().getTimeInMillis(), DateUtils.MINUTE_IN_MILLIS);
                 news.setNewsTime(niceDateStr);
-
-                Pattern pattern = Pattern.compile("^(?:http:\\/\\/|www\\.|https:\\/\\/)([^\\/]+)");
-                Matcher matcher = pattern.matcher(oneObject.getString("link"));
+                pattern = Pattern.compile("^(?:http:\\/\\/|www\\.|https:\\/\\/)([^\\/]+)");
+                matcher = pattern.matcher(link);
                 while (matcher.find()) {
-                    news.setNewsSource(matcher.group(1));
+                    news.setNewsSource(matcher.group(1).replace("www.",""));
                 }
-
+                news.setNewsSummary(oneObject.getString("description").replace("&amp;","&"));
                 feeds.add(news);
             } catch (JSONException e) {
                 // Oops
