@@ -22,7 +22,7 @@ import java.util.regex.Pattern;
 public class GoogleNewsParser {
 
 //    private String BASE_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Fnews%2Frss%2Fsearch%2Fsection%2Fq%2Fuae%2520vat%2Fuae%2520vat%3Fhl%3Den%26ned%3Dus";
-    private String BASE_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.bing.com%2Fnews%2Fsearch%3Fq%3Duae%2Bvat%26go%3DSearch%26qs%3Dds%26form%3DQBNT%26format%3Drss";
+    private String BASE_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.bing.com%2Fnews%2Fsearch%3Fq%3Duae%2Bvat%26qft%3Dsortbydate%253d%25221%2522%26format%3Drss";
     private HttpClient http;
 
     public ArrayList<NewsFeedItem> feeds = new ArrayList<NewsFeedItem>();

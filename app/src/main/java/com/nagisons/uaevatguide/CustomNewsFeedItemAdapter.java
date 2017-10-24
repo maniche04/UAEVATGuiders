@@ -3,6 +3,8 @@ package com.nagisons.uaevatguide;
 import java.util.ArrayList;
 
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -26,7 +28,7 @@ public class CustomNewsFeedItemAdapter extends ArrayAdapter<NewsFeedItem> {
         }
 
         // Get the data item for this position
-        NewsFeedItem newsItem = getItem(position);
+        final NewsFeedItem newsItem = getItem(position);
 
         // Lookup view for data population
         TextView newsTitle = (TextView) convertView.findViewById(R.id.newsTitle);
@@ -42,8 +44,17 @@ public class CustomNewsFeedItemAdapter extends ArrayAdapter<NewsFeedItem> {
         TextView newsSummary = (TextView) convertView.findViewById(R.id.newsSummary);
         // Populate the data into the template view using the data object
         newsSummary.setText(newsItem.getNewsSummary());
+
+
+        convertView.setOnClickListener( new View.OnClickListener() {
+            public void onClick(View v) {
+                System.out.println("Opening: " + newsItem.getNewsUrl());
+                Uri uri = Uri.parse(newsItem.getNewsUrl());
+                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                getContext().startActivity(intent);
+            }
+        });
+
         return convertView;
-
-
     }
 }

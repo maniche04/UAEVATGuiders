@@ -1,6 +1,7 @@
 package com.nagisons.uaevatguide;
 
 import android.os.AsyncTask;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -17,7 +18,9 @@ public class NewsFeedActivity extends AppCompatActivity {
 
     private Toolbar toolbar;
     private ListView newsList;
-    private GoogleNewsParser googleNews = new GoogleNewsParser();
+    private GoogleNewsParser googleNews;
+
+    private SwipeRefreshLayout mSwipeRefreshLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,11 +29,29 @@ public class NewsFeedActivity extends AppCompatActivity {
         this.toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         this.setTitle("Latest UAE VAT News");
+
+        mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swiperefresh);
         this.populateUsersList();
+        /*
+         * Sets up a SwipeRefreshLayout.OnRefreshListener that is invoked when the user
+         * performs a swipe-to-refresh gesture.
+         */
+        mSwipeRefreshLayout.setOnRefreshListener(
+                new SwipeRefreshLayout.OnRefreshListener() {
+                    @Override
+                    public void onRefresh() {
+                        populateUsersList();
+
+                    }
+                }
+        );
+
     }
 
     private void populateUsersList() {
         // Construct the data source
+        mSwipeRefreshLayout.setRefreshing(true);
+        googleNews = new GoogleNewsParser();
         new RetrieveFeedTask().execute("none");
     }
 
@@ -61,8 +82,9 @@ public class NewsFeedActivity extends AppCompatActivity {
         protected void onPostExecute(ArrayList<NewsFeedItem> feeds) {
             CustomNewsFeedItemAdapter adapter = new CustomNewsFeedItemAdapter(NewsFeedActivity.this, feeds);
             // Attach the adapter to a ListView
-            ListView listView = (ListView) findViewById(R.id.newsListView);
+            ListView listView = (ListView) findViewById(R.id.list);
             listView.setAdapter(adapter);
+            mSwipeRefreshLayout.setRefreshing(false);
         }
 
     }
