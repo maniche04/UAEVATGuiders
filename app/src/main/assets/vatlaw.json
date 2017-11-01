@@ -1,0 +1,2513 @@
+{
+  "title": "Federal Decree-Law No. (8) of 2017 on VAT",
+  "shortTitle": "Law No.8 on VAT",
+  "publisher": "Federal Tax Authority, UAE",
+  "publishedDate": "2017-08-27",
+  "updatedDate": "",
+  "description": "The law that governs the treatment on VAT.",
+  "titles": [
+    {
+      "ref": "T01",
+      "name": "Title 1",
+      "description": "Definitions",
+      "chapters": [
+        {
+          "ref": "T01C00",
+          "name": "",
+          "description": "",
+          "articles": [
+            {
+              "ref": "T01C00A01",
+              "name": "Article (1) - Definitions",
+              "content": "In the application of the provisions of this Decree-Law, the following words and expressions shall have the meanings assigned against each, unless the context otherwise requires:",
+              "clauses": [
+                {
+                  "ref": "T01C00A01CL01",
+                  "name": "State",
+                  "content": "United Arab Emirates"
+                },
+                {
+                  "ref": "T01C00A01CL02",
+                  "name": "Minister",
+                  "content": "Minister of Finance"
+                },
+                {
+                  "ref": "T01C00A01CL03",
+                  "name": "Authority",
+                  "content": "Federal Tax Authority"
+                },
+                {
+                  "ref": "T01C00A01CL04",
+                  "name": "Value Added Tax",
+                  "content": "A tax imposed on the import and supply of Goods and Services at each stage of production and distribution, including the Deemed Supply."
+                },
+                {
+                  "ref": "T01C00A01CL05",
+                  "name": "Tax",
+                  "content": "Value Added Tax (VAT)"
+                },
+                {
+                  "ref": "T01C00A01CL06",
+                  "name": "GCC States",
+                  "content": "all countries that are full members of The Cooperation Council for the Arab States of the Gulf pursuant to its Charter"
+                },
+                {
+                  "ref": "T01C00A01CL07",
+                  "name": "Implementing States",
+                  "content": "The GCC States that are implementing a Tax law pursuant to an issued legislation."
+                },
+                {
+                  "ref": "T01C00A01CL08",
+                  "name": "Goods",
+                  "content": "Physical property that can be supplied including real estate, water, and all forms of energy as specified in the Executive Regulation of this Decree-Law"
+                },
+                {
+                  "ref": "T01C00A01CL09",
+                  "name": "Services",
+                  "content": "Anything that can be supplied other than Goods."
+                },
+                {
+                  "ref": "T01C00A01CL10",
+                  "name": "Import",
+                  "content": "The arrival of Goods from abroad into the State or receipt of Services from outside the State."
+                },
+                {
+                  "ref": "T01C00A01CL11",
+                  "name": "Concerned Goods",
+                  "content": "Goods that have been imported, and would not be exempt if supplied in the State."
+                },
+                {
+                  "ref": "T01C00A01CL12",
+                  "name": "Concerned Services",
+                  "content": "Services that have been imported, where the place of supply is in the State, and would not be exempt if supplied in the State."
+                },
+                {
+                  "ref": "T01C00A01CL13",
+                  "name": "Person",
+                  "content": "A natural or legal person."
+                },
+                {
+                  "ref": "T01C00A01CL14",
+                  "name": "Taxable Person",
+                  "content": "Any Person registered or obligated to register for Tax purposes under this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL15",
+                  "name": "Taxpayer",
+                  "content": "Any person obligated to pay Tax in the State under this Decree-Law, whether a Taxable Person or end consumer."
+                },
+                {
+                  "ref": "T01C00A01CL16",
+                  "name": "Tax Registration",
+                  "content": "A procedure according to which the Taxable Person or his Legal Representative registers for Tax purposes at the Authority."
+                },
+                {
+                  "ref": "T01C00A01CL17",
+                  "name": "Tax Registration  Number (TRN)",
+                  "content": "A unique number issued by the Authority for each Person registered for Tax purposes."
+                },
+                {
+                  "ref": "T01C00A01CL18",
+                  "name": "Registrant",
+                  "content": "The Taxable Person who has been issued with a TRN."
+                },
+                {
+                  "ref": "T01C00A01CL19",
+                  "name": "Recipient of Goods",
+                  "content": "A natural or legal person."
+                },
+                {
+                  "ref": "T01C00A01CL20",
+                  "name": "Recipient of Services",
+                  "content": "Person to whom Services are supplied or imported."
+                },
+                {
+                  "ref": "T01C00A01CL21",
+                  "name": "Importer",
+                  "content": "With respect to importing Goods, it is the Person whose name is listed as the importer of the Goods on the date of Import for customs clearance purposes. With respect to Services, it is the Recipient of these Services."
+                },
+                {
+                  "ref": "T01C00A01CL22",
+                  "name": "Taxable Trader",
+                  "content": "A Taxable Person in the Implementing States, whose main activity is the distribution of water and all types of energy as specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL23",
+                  "name": "Tax Return",
+                  "content": "Information and data specified for Tax purposes and submitted by a Taxable Person in accordance with a form prepared by the Authority."
+                },
+                {
+                  "ref": "T01C00A01CL24",
+                  "name": "Consideration",
+                  "content": "All that is received or expected to be received for the supply of Goods or Services, whether in money or other acceptable forms of payment."
+                },
+                {
+                  "ref": "T01C00A01CL25",
+                  "name": "Business",
+                  "content": "Any activity conducted regularly, on an ongoing basis and independently by any Person, in any location, such as industrial, commercial, agricultural, professional, service or excavation activities or anything related to the use of tangible or intangible properties."
+                },
+                {
+                  "ref": "T01C00A01CL26",
+                  "name": "Exempt Supply",
+                  "content": "A supply of Goods or Services for Consideration while conducting Business in the State, where no Tax is due and no Input Tax may be recovered, except according to the provisions of this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL27",
+                  "name": "Taxable Supply",
+                  "content": "A supply of Goods or Services for a Consideration by a Person conducting Business in the State, and does not include Exempt Supply."
+                },
+                {
+                  "ref": "T01C00A01CL28",
+                  "name": "Deemed Supply",
+                  "content": "Anything considered as a supply and treated as a Taxable Supply according to the instances stipulated in this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL29",
+                  "name": "Input Tax",
+                  "content": "Tax paid by a Person or due from him when Goods or Services are supplied to him, or when conducting an Import."
+                },
+                {
+                  "ref": "T01C00A01CL30",
+                  "name": "Output Tax",
+                  "content": "Tax charged on a Taxable Supply and any supply considered as a Taxable Supply."
+                },
+                {
+                  "ref": "T01C00A01CL31",
+                  "name": "Recoverable Tax",
+                  "content": "Amounts that were paid and may be returned by the Authority to the Taxpayer pursuant to the provisions of this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL32",
+                  "name": "Due Tax",
+                  "content": "Tax that is calculated and charged pursuant to this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL33",
+                  "name": "Payable Tax",
+                  "content": "Tax that is due for payment to the Authority."
+                },
+                {
+                  "ref": "T01C00A01CL34",
+                  "name": "Tax Period",
+                  "content": "A specific period of time for which the Payable Tax shall be calculated and paid."
+                },
+                {
+                  "ref": "T01C00A01CL35",
+                  "name": "Tax Invoice",
+                  "content": "A written or electronic document in which the occurance of any amendment to a Taxable Supply that reduces or cancels the same is recorded and the details pertaining to it."
+                },
+                {
+                  "ref": "T01C00A01CL36",
+                  "name": "Tax Credit Note",
+                  "content": "A written or electronic document in which the occurance of any amendment to a Taxable Supply that reduces or cancels the same is recorded and the details pertaining to it."
+                },
+                {
+                  "ref": "T01C00A01CL37",
+                  "name": "Government Entities",
+                  "content": "Federal and local ministries, government departments, government agencies, authorities and public institutions in the State."
+                },
+                {
+                  "ref": "T01C00A01CL38",
+                  "name": "Charities:",
+                  "content": "A written or electronic document in which the occurance of a Taxable Supply is recorded with details pertaining to it."
+                },
+                {
+                  "ref": "T01C00A01CL39",
+                  "name": "Mandatory Registration Threshold",
+                  "content": "An amount specified in the Executive Regulation of this Decree-Law; if exceeded by the value of Taxable Supplies or is anticipated to be exceeded, the supplier shall apply for Tax Registration ."
+                },
+                {
+                  "ref": "T01C00A01CL40",
+                  "name": "Voluntary Registration Threshold",
+                  "content": "An amount specified in the Executive Regulation of this Decree-Law; if exceeded by the value of Taxable Supplies or taxable expenses or is anticipated to be exceeded, the supplier may apply for Tax Registration ."
+                },
+                {
+                  "ref": "T01C00A01CL41",
+                  "name": "Transport-related Services",
+                  "content": "Shipment, packaging and securing cargo, preparation of Customs documents, container management, loading, unloading, storing and moving of Goods, or any another closely related services or services that are necessary to conduct the transportation services."
+                },
+                {
+                  "ref": "T01C00A01CL42",
+                  "name": "Place of Establishment",
+                  "content": "The place where a Business is legally established in a country pursuant to the decision of its establishment, or in which significant management decisions are taken and central management functions are conducted."
+                },
+                {
+                  "ref": "T01C00A01CL43",
+                  "name": "Fixed Establishment",
+                  "content": "Any fixed place of business, other than the Place of Establishment, in which the Person conducts his business regularly or permanently and where sufficient human and technology resources exist to enable the Person to supply or acquire Goods or Services, including the Person’s branches."
+                },
+                {
+                  "ref": "T01C00A01CL44",
+                  "name": "Place of Residence",
+                  "content": "The place where a Person has a Place of Establishment or Fixed Establishment, in accordance with the provisions of this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL45",
+                  "name": "Non-Resident",
+                  "content": "Any person who does not own a Place of Establishment or Fixed Establishment in the State and usually does not reside in the State."
+                },
+                {
+                  "ref": "T01C00A01CL46",
+                  "name": "Related Parties",
+                  "content": "Two or more Persons who not separated on the economic, financial or regulatory level, where one can control the others either by Law, or through the acquisition of shares or voting rights."
+                },
+                {
+                  "ref": "T01C00A01CL47",
+                  "name": "Customs Legislation",
+                  "content": "Federal and local legislation that regulate customs in the State."
+                },
+                {
+                  "ref": "T01C00A01CL48",
+                  "name": "Designated Zone",
+                  "content": "Any area specified by a Cabinet Decision issued at the suggestion of the Minister, as a Designated Zone for the purpose of this Decree-Law."
+                },
+                {
+                  "ref": "T01C00A01CL49",
+                  "name": "Export",
+                  "content": "Goods departing the State or the provision of Services to a Person whose Place of Establishment or Fixed Establishment is outside the State."
+                },
+                {
+                  "ref": "T01C00A01CL50",
+                  "name": "Voucher",
+                  "content": "Any instrument that gives the right to receive Goods or Services against the value stated thereon or the right to receive a discount on the price of the Goods or Services. Vouchers do not include postage stamps issued by the Emirates Post Group."
+                },
+                {
+                  "ref": "T01C00A01CL51",
+                  "name": "Activities conducted with Sovereign Capacity",
+                  "content": "Activities conducted by Government Entities in their sole competent capacity, with or without Consideration."
+                },
+                {
+                  "ref": "T01C00A01CL52",
+                  "name": "Capital Assets",
+                  "content": "Business assets designated for long-term use."
+                },
+                {
+                  "ref": "T01C00A01CL53",
+                  "name": "Capital Assets Scheme",
+                  "content": "A scheme whereby the initially recovered Input Tax is adjusted based on the actual use during a specific period."
+                },
+                {
+                  "ref": "T01C00A01CL54",
+                  "name": "Administrative Penalties",
+                  "content": "Amounts imposed upon a Person by the Authority for breaching the provisions of this Decree-Law or Federal Law No. (7) of 2017 on Tax Procedures."
+                },
+                {
+                  "ref": "T01C00A01CL55",
+                  "name": "Administrative Penalties Assessment",
+                  "content": "Amounts imposed upon a Person by the Authority for breaching the provisions of this Decree-Law or Federal Law No. (7) of 2017 on Tax Procedures."
+                },
+                {
+                  "ref": "T01C00A01CL56",
+                  "name": "Excise Tax",
+                  "content": "A tax imposed on specific Goods."
+                },
+                {
+                  "ref": "T01C00A01CL57",
+                  "name": "Tax Group",
+                  "content": "Two or more Persons registered with the Authority for Tax purposes as a single taxable person in accordance with the provisions of this Decree-Law."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T02",
+      "name": "Title 2",
+      "description": "Tax Scope and Rate",
+      "chapters": [
+        {
+          "ref": "T02C00",
+          "name": "",
+          "description": "",
+          "articles": [
+            {
+              "ref": "T02C00A02",
+              "name": "Article (2) - Scope of Tax",
+              "content": "[Tax] shall be imposed on:",
+              "clauses": [
+                {
+                  "ref": "T02C00A02CL01",
+                  "name": "",
+                  "content": "Every [Taxable Supply] and [Deemed Supply] made by the [Taxable Person]."
+                },
+                {
+                  "ref": "T02C00A02CL02",
+                  "name": "",
+                  "content": "[Import] of [Concerned Goods] except as specified in the Executive Regulation of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T02C00A03",
+              "name": "Article (3) - Tax Rate",
+              "content": "Without prejudice to the provisions of Title Six of this Decree-Law, a standard rate of 5% shall be imposed on any supply or [Import] pursuant to <LNKS>T02C00A02<LNKC>Article (2)<LNKE> of this Decree-Law on the value of the supply or [Import] specified in the provisions of this Decree-Law.",
+              "clauses": []
+            },
+            {
+              "ref": "T02C00A04",
+              "name": "Article (4) - Responsibility for Tax",
+              "content": "The [Tax] imposed shall be the responsibility of the following:",
+              "clauses": [
+                {
+                  "ref": "T02C00A04CL01",
+                  "name": "",
+                  "content": "A [Taxable Person] who makes any supply stipulated in <LNKS>T02C00A02CL01<LNKC>Clause (1) of Article (2)<LNKE> of this Decree-Law."
+                },
+                {
+                  "ref": "T02C00A04CL02",
+                  "name": "",
+                  "content": "The [Importer] of [Concerned Goods]."
+                },
+                {
+                  "ref": "T02C00A04CL03",
+                  "name": "",
+                  "content": "The [Registrant] who acquires [Goods] as stated in <LNKS>T06C04A48CL03<LNKC>Clause (3) of Article (48)<LNKE> of this Decree-Law."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T03",
+      "name": "Title 3",
+      "description": "Supply",
+      "chapters": [
+        {
+          "ref": "T03C01",
+          "name": "Chapter 1",
+          "description": "Supply of Goods and Services",
+          "articles": [
+            {
+              "ref": "T03C01A05",
+              "name": "Article (5) - Supply of Goods",
+              "content": "The following shall be considered a supply of [Goods]:",
+              "clauses": [
+                {
+                  "ref": "T03C01A05CL01",
+                  "name": "",
+                  "content": "Transfer of ownership of the [Goods] or the right to use them to another [Person] according to what is specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T03C01A05CL02",
+                  "name": "",
+                  "content": "Entry into a contract between two parties entailing the transfer of [Goods] at a later time, pursuant to the conditions specified in the Executive Regulation of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T03C01A06",
+              "name": "Article (6) - Supply of Services",
+              "content": "A supply of [Services] shall be every supply that is not considered a supply of [Goods], including any provision of [Services] specified in the Executive Regulation of this Decree-Law.",
+              "clauses": []
+            },
+            {
+              "ref": "T03C01A07",
+              "name": "Article (7) - Supply in Special Cases",
+              "content": "As an exception to what is stated in Articles <LNKS>T03C01A05<LNKC>(5)<LNKE> and <LNKS>T03C01A06<LNKC>(6)<LNKE> of this Decree-Law, the following shall not be considered a supply:",
+              "clauses": [
+                {
+                  "ref": "T03C01A07CL01",
+                  "name": "",
+                  "content": "The sale or issuance of any [Voucher] unless the received [Consideration] exceeds its advertised monetary value, as specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T03C01A07CL02",
+                  "name": "",
+                  "content": "The transfer of whole or an independent part of a [Business] from a [Person] to a [Taxable Person] for the purposes of continuing the [Business] that was transferred."
+                }
+              ]
+            },
+            {
+              "ref": "T03C01A08",
+              "name": "Article (8) - Supply of more than one component",
+              "content": "The Executive Regulation of this Decree-Law shall specify the conditions for treating a supply made of more than one component for one price, whether such components are [Goods] or [Services] or both.",
+              "clauses": []
+            },
+            {
+              "ref": "T03C01A09",
+              "name": "Article (9) - Supply via Agent",
+              "content": "As an exception to what is stated in Articles <LNKS>T03C01A05<LNKC>(5)<LNKE> and <LNKS>T03C01A06<LNKC>(6)<LNKE> of this Decree-Law, the following shall not be considered a supply:",
+              "clauses": [
+                {
+                  "ref": "T03C01A09CL01",
+                  "name": "",
+                  "content": "The Supply of [Goods] and [Services] through an agent acting in the name of and on behalf of a principal is considered to be a supply by the principal and for his benefit."
+                },
+                {
+                  "ref": "T03C01A09CL02",
+                  "name": "",
+                  "content": "The Supply of [Goods] and [Services] through an agent acting in his name is considered to be a direct supply by the agent and for his benefit."
+                }
+              ]
+            },
+            {
+              "ref": "T03C01A10",
+              "name": "Article (10) - Supply by Government Enitites",
+              "content": "As an exception to what is stated in Articles <LNKS>T03C01A05<LNKC>(5)<LNKE> and <LNKS>T03C01A06<LNKC>(6)<LNKE> of this Decree-Law, the following shall not be considered a supply:",
+              "clauses": [
+                {
+                  "ref": "T03C01A10CL01",
+                  "name": "",
+                  "content": "A Government Entity is regarded as making a supply in the course of business in the following cases:",
+                  "paragraphs": [
+                    {
+                      "ref": "T01C01A10CL01PA",
+                      "name": "",
+                      "content": "If its activities are conducted in a non-sovereign Capacity."
+                    },
+                    {
+                      "ref": "T01C01A10CL01PB",
+                      "name": "",
+                      "content": "If its activities are in competition with the private sector."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T03C01A10CL02",
+                  "name": "",
+                  "content": "A Cabinet Decision shall be issued at the suggestion of the [Minister] determining the [Government Entities] and their activities that are considered as conducted in a Sovereign Capacity and instances where its activities are considered not in competition with the private sector."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T03C02",
+          "name": "Chapter 2",
+          "description": "Deemed Supply",
+          "articles": [
+            {
+              "ref": "T03C02A11",
+              "name": "Article (11) - The Cases of Deemed Supply",
+              "content": "The following cases shall be considered as [Deemed Supply]:",
+              "clauses": [
+                {
+                  "ref": "T03C02A11CL01",
+                  "name": "",
+                  "content": "A supply of [Goods] or [Services], which constituted the whole assets of a [Taxable Person] or a part thereof, but are no longer considered to be as such, provided that the supply was made without [Consideration]."
+                },
+                {
+                  "ref": "T03C02A11CL02",
+                  "name": "",
+                  "content": "The transfer by a [Taxable Person] of [Goods] that constituted a part of his business assets from the [State] to another Implementing State, or from the [Taxable Person]’s business in an Implementing State to his [Business] in the [State], except in the case where such transfer:",
+                  "paragraphs": [
+                    {
+                      "ref": "T03C02A11CL02PA",
+                      "name": "",
+                      "content": "Is considered as temporary under the [Customs Legislation]."
+                    },
+                    {
+                      "ref": "T03C02A11CL02PB",
+                      "name": "",
+                      "content": "Is made as part of another [Taxable Supply] of these [Goods]."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T03C02A11CL03",
+                  "name": "",
+                  "content": "A supply of [Goods] or [Services] for which [Input Tax] may be recovered but the [Goods] or [Services] were used, in part or whole, for purposes other than [Business], and such supply shall be considered as deemed only to the extent of the use for non-business purposes."
+                },
+                {
+                  "ref": "T03C02A11CL04",
+                  "name": "",
+                  "content": "[Goods] and [Services] that a [Taxable Person] owns at the date of Tax Deregistration."
+                }
+              ]
+            },
+            {
+              "ref": "T03C02A12",
+              "name": "Article (12) - Exceptions for Deemed Supply",
+              "content": "A supply is not considered as deemed in the following cases:",
+              "clauses": [
+                {
+                  "ref": "T03C02A12CL01",
+                  "name": "",
+                  "content": "If no [Input Tax] was recovered for the related [Goods] and [Services]."
+                },
+                {
+                  "ref": "T03C02A12CL02",
+                  "name": "",
+                  "content": "If the supply is an [Exempt Supply]."
+                },
+                {
+                  "ref": "T03C02A12CL03",
+                  "name": "",
+                  "content": "If the recovered [Input Tax] has been adjusted for the [Goods] and [Services] pursuant to the [Capital Assets Scheme]."
+                },
+                {
+                  "ref": "T03C02A12CL04",
+                  "name": "",
+                  "content": "If the value of the supply of the [Goods], for each [Recipient of Goods]  within a 12-month period,does not exceed the amount specified in the Executive Regulation of this Decree-Law, and the [Goods] were supplied as samples or commercial gifts."
+                },
+                {
+                  "ref": "T03C02A12CL05",
+                  "name": "",
+                  "content": "If the total [Output Tax] due for all the Deemed Supplies per [Person] for a 12-month period is less than the amount specified in the Executive Regulation of this Decree-Law."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T04",
+      "name": "Title 4",
+      "description": "Tax Registration and Deregistration",
+      "chapters": [
+        {
+          "ref": "T04C00",
+          "name": "",
+          "description": "",
+          "articles": [
+            {
+              "ref": "T04C00A13",
+              "name": "Article (13) - Mandatory Tax Registration",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T04C00A13CL01",
+                  "name": "",
+                  "content": "Every Person, who has a [Place of Residence] in the [State] or an Implementing [State] and is not already registered for Tax, shall register in the following situations:",
+                  "paragraphs": [
+                    {
+                      "ref": "T04C00A13CL01PA",
+                      "name": "",
+                      "content": "Where the total value of all supplies referred to in <LNKS>T04C00A19<LNKC>Article (19)<LNKE> exceeded the [Mandatory Registration Threshold] over the previous 12-month period."
+                    },
+                    {
+                      "ref": "T04C00A13CL01PB",
+                      "name": "",
+                      "content": "Where it is anticipated that the total value of all supplies referred to in Article (19) will exceed the [Mandatory Registration Threshold] in the next thirty (30) days."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T04C00A13CL02",
+                  "name": "",
+                  "content": "Every Person, who does not have a [Place of Residence] in the [State] or an Implementing State and is not already registered for Tax, shall register for Tax if he makes supplies of [Goods] or [Services], and where no other [Person] is obligated to pay the [Due Tax] on these supplies in the State."
+                },
+                {
+                  "ref": "T04C00A13CL03",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the time limits that a [Person] has to inform the [Authority] about his liability to register for Tax and the effective date of [Tax Registration] ."
+                }
+              ]
+            },
+            {
+              "ref": "T04C00A14",
+              "name": "Article (14) - Tax Group",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T04C00A14CL01",
+                  "name": "",
+                  "content": "Two or more persons conducting [Business]es may apply for [Tax Registration]  as a [Tax Group] if all of the following conditions are met:",
+                  "paragraphs": [
+                    {
+                      "ref": "T04C00A14CL01PA",
+                      "name": "",
+                      "content": "Each shall have a [Place of Establishment] or [Fixed Establishment] in the State."
+                    },
+                    {
+                      "ref": "T04C00A14CL01PB",
+                      "name": "",
+                      "content": "The relevant persons shall be [Related Parties]."
+                    },
+                    {
+                      "ref": "T04C00A14CL01PC",
+                      "name": "",
+                      "content": "One or more persons conducting business in a partnership shall control the others."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T04C00A14CL02",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law will determine the instances where the [Authority] may reject the application to register a [Tax Group]."
+                },
+                {
+                  "ref": "T04C00A14CL03",
+                  "name": "",
+                  "content": "Any [Person] conducting [Business] is not allowed to have more than one [Tax Registration]  Number, unless otherwise prescribed in the Executive Regulation."
+                },
+                {
+                  "ref": "T04C00A14CL04",
+                  "name": "",
+                  "content": "If [Related Parties] do not apply for [Tax Registration]  as a [Tax Group] under <LNKS>T04C00A14CL01<LNKC>Clause (1)<LNKE> of this Article, the [Authority] may assess their relation based on their economic, financial and regulatory practices in business and register them as a [Tax Group] if their relation was proved thereto according to the controls and Conditions specified by the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T04C00A14CL05",
+                  "name": "",
+                  "content": "The [Authority] may deregister the [Tax Group] registration in accordance with this Article as per the conditions specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T04C00A14CL06",
+                  "name": "",
+                  "content": "The [Authority] may make changes to the Persons registered as a [Tax Group] by adding or removing Persons as requested by the [Taxable Person] or in accordance with the instances mentioned in the Executive Regulation."
+                }
+              ]
+            },
+            {
+              "ref": "T04C00A15",
+              "name": "Article (15) - Registration Exceptions",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T04C00A15CL01",
+                  "name": "",
+                  "content": "The [Authority] may except a [Taxable Person] from mandatory [Tax Registration]  upon his request if his supplies are only subject to the zero rate."
+                },
+                {
+                  "ref": "T04C00A15CL02",
+                  "name": "",
+                  "content": "Anyone excepted from [Tax Registration]  according to <LNKS>T04C00A14CL01<LNKC>Clause (1)<LNKE> of this Article shall inform the [Authority] of any changes to his [Business] that would make him subject to Tax under this Decree-Law pursuant to the time limits and procedures determined in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T04C00A15CL03",
+                  "name": "",
+                  "content": "The [Authority] shall have the right to collect any [Due Tax] and [Administrative Penalties] for the period of exception where that [Taxable Person] was not entitled to the exception."
+                }
+              ]
+            },
+            {
+              "ref": "T04C00A16",
+              "name": "Article (16) - Tax Registration  of Governmental Bodies",
+              "content": "[Government Entities] which shall be determined in a Cabinet Decision issued under <LNKS>T03C01A10CL02<LNKC>Clause (2) of Article (10)<LNKE> of this Decree-Law, shall apply for [Tax Registration]  and may not be Deregistered unless by a Cabinet Decision at the suggestion of the [Minister].",
+              "clauses": []
+            },
+            {
+              "ref": "T04C00A17",
+              "name": "Article (17) - Voluntary Registration",
+              "content": "Any [Person] who is not obligated to apply for [Tax Registration]  according to this Chapter may apply for [Tax Registration]  in the following cases:",
+              "clauses": [
+                {
+                  "ref": "T04C00A17CL01",
+                  "name": "",
+                  "content": "If he proves, at the end of any given month, that the total value of supplies referred to in Article (19) of this Decree-Law or the expenses which are subject to Tax and were incurred during the previous 12-month period, has exceeded the [Voluntary Registration Threshold]."
+                },
+                {
+                  "ref": "T04C00A17CL02",
+                  "name": "",
+                  "content": "At any time that he anticipates that the total value of supplies stipulated in Article (19) of this Decree-Law or the expenses which are subject to Tax that will be incurred, will exceed the [Voluntary Registration Threshold] during the coming 30-day period."
+                }
+              ]
+            },
+            {
+              "ref": "T04C00A18",
+              "name": "Article (18) - Voluntary Registration",
+              "content": "A Non-resident Person may not take the value of [Goods] and [Services] imported into the [State] to determine whether he is entitled to apply for [Tax Registration]  if the calculation of Tax for such [Goods] or [Services] is the reponsibility of the [Importer]  pursuant to <LNKS>T06C04A48CL01<LNKC>Clause (1) of Article (48)<LNKE> of this Decree-Law.",
+              "clauses": []
+            },
+            {
+              "ref": "T04C00A19",
+              "name": "Article (19) - Calculating the Tax Registration  Threshold",
+              "content": "To determine whether a [Person] has exceeded the [Mandatory Registration Threshold] and the [Voluntary Registration Threshold], the following shall be calculated:",
+              "clauses": [
+                {
+                  "ref": "T04C00A19CL01",
+                  "name": "",
+                  "content": "The value of Taxable [Goods] and [Services]."
+                },
+                {
+                  "ref": "T04C00A19CL02",
+                  "name": "",
+                  "content": "The value of [Concerned Goods] and [Concerned Services] received by the [Person] unless covered by <LKNS>T04C00A19CL01<LNKC>Clause (1)<LNKE> of this Article."
+                },
+                {
+                  "ref": "T04C00A19CL03",
+                  "name": "",
+                  "content": "The value of the whole or relevant part of Taxable Supplies that belong to said [Person] if he has, wholly or partly, acquired a [Business] from another [Person] who made the supplies."
+                },
+                {
+                  "ref": "T04C00A19CL04",
+                  "name": "",
+                  "content": "The value of Taxable Supplies made by [Related Parties] pursuant to the cases stated in the Executive Regulation of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T04C00A20",
+              "name": "Article (20) - Capital Assets",
+              "content": "The supply of [Capital Assets] belonging to the [Person] shall not be taken into account to determine whether a [Person] in [Business] exceeds the [Mandatory Registration Threshold] or [Voluntary Registration Threshold].",
+              "clauses": []
+            },
+            {
+              "ref": "T04C00A21",
+              "name": "Article (21) - Tax De-Registration Cases",
+              "content": "A [Registrant]  shall apply to the [Authority] for Tax Deregistration in any of the following cases:",
+              "clauses": [
+                {
+                  "ref": "T04C00A21CL01",
+                  "name": "",
+                  "content": "If he stops making Taxable Supplies."
+                },
+                {
+                  "ref": "T04C00A21CL02",
+                  "name": "",
+                  "content": "If the value of the Taxable Supplies made over a period of (12) consecutive months is less than the [Voluntary Registration Threshold] and said [Registrant]  does not meet the condition stipulated in <LNKS>T04C00A17CL02<LNKC>Clause (2) of Article (17)<LNKE> of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T04C00A22",
+              "name": "Article (22) - Application for Tax De-Registration",
+              "content": "A [Registrant]  may apply to the [Authority] for Tax Deregistration if the value of his Taxable Supplies during the past (12) months was less than the [Mandatory Registration Threshold].",
+              "clauses": []
+            },
+            {
+              "ref": "T04C00A23",
+              "name": "Article (23) - Voluntary Tax De-registration",
+              "content": "A [Registrant]  under Article (17) may not apply for Tax Deregistration within (12) months of the date of [Tax Registration] .",
+              "clauses": []
+            },
+            {
+              "ref": "T04C00A24",
+              "name": "Article (24) - Procedures, Controls and Conditions of Tax Registration  and De-registration",
+              "content": "The Executive Regulation of this Decree-Law shall determine the procedures, controls and conditions for [Tax Registration] , Tax deregistration and rejection of applications for [Tax Registration]  and Deregistration as stipulated in this Title.",
+              "clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T05",
+      "name": "Title 5",
+      "description": "Rules Pertaining to Supplies",
+      "chapters": [
+        {
+          "ref": "T05C01",
+          "name": "Chapter 1",
+          "description": "Date of Supply",
+          "articles": [
+            {
+              "ref": "T05C01A25",
+              "name": "Article (25) - Date of Supply",
+              "content": "Tax shall be calculated on the date of supply of [Goods] or [Services], which shall be earlier of any of the following dates:",
+              "clauses": [
+                {
+                  "ref": "T05C01A25CL01",
+                  "name": "",
+                  "content": "The date on which [Goods] were transferred, if such transfer was under the supervision of the supplier."
+                },
+                {
+                  "ref": "T05C01A25CL02",
+                  "name": "",
+                  "content": "The date on which the [Recipient of Goods]  took possession of the [Goods], if the transfer was not supervised by the supplier."
+                },
+                {
+                  "ref": "T05C01A25CL03",
+                  "name": "",
+                  "content": "Where goods are supplied with assembly and installation, the date on which the assembly or installation of the [Goods] was completed."
+                },
+                {
+                  "ref": "T05C01A25CL04",
+                  "name": "",
+                  "content": "The date on which the [Goods] are Imported under the [Customs Legislation]."
+                },
+                {
+                  "ref": "T05C01A25CL05",
+                  "name": "",
+                  "content": "The date on which the [Recipient of Goods]  accepted the supply, or a date no later than (12) months after the date on which the [Goods] were transferred or placed under the [Recipient of Goods]  disposal, if the supply was made on a returnable basis."
+                },
+                {
+                  "ref": "T05C01A25CL06",
+                  "name": "",
+                  "content": "The date on which the [Services] were completed."
+                },
+                {
+                  "ref": "T05C01A25CL07",
+                  "name": "",
+                  "content": "The date of receipt of payment or the date on which the [Tax Invoice] was issued."
+                }
+              ]
+            },
+            {
+              "ref": "T05C01A26",
+              "name": "Article (26) - Date of Supply in Special Cases",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T05C01A26CL01",
+                  "name": "",
+                  "content": "The date of supply of [Goods] or [Services] for any contract that includes periodic payments or consecutive invoices is the earliest of any of the following dates, provided that it does not exceed one year from the date of the provision of such [Goods] and [Services]:",
+                  "paragraphs": [
+                    {
+                      "ref": "T05C01A26CL01PA",
+                      "name": "",
+                      "content": "The date of issuance of any [Tax Invoice]."
+                    },
+                    {
+                      "ref": "T05C01A26CL01PB",
+                      "name": "",
+                      "content": "The date payment is due as shown on the [Tax Invoice]."
+                    },
+                    {
+                      "ref": "T05C01A26CL01PC",
+                      "name": "",
+                      "content": "The date of receipt of payment."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T05C01A26CL02",
+                  "name": "",
+                  "content": "The date of supply, in cases where payment is made through vending machines, shall be the date on which funds are collected from the machine."
+                },
+                {
+                  "ref": "T05C01A26CL03",
+                  "name": "",
+                  "content": "The date of [Deemed Supply] of [Goods] or [Services] is the date of their supply, disposal, change of usage or the date of Deregistration, as the case may be."
+                },
+                {
+                  "ref": "T05C01A26CL04",
+                  "name": "",
+                  "content": "The date of a supply of a voucher is the date of issuance or supply thereafter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T05C02",
+          "name": "Chapter 2",
+          "description": "Place of Supply",
+          "articles": [
+            {
+              "ref": "T05C02A27",
+              "name": "Article (27) - Place of Supply of [Goods]",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T05C02A27CL01",
+                  "name": "",
+                  "content": "The place of supply of [Goods] shall be in the [State] if the supply was made in the State, and does not include [Export] from or [Import] into the State."
+                },
+                {
+                  "ref": "T05C02A27CL02",
+                  "name": "",
+                  "content": "The place of supply of installed or assembled [Goods] if exported from or imported into the [State] shall be:",
+                  "paragraphs": [
+                    {
+                      "ref": "T05C02A27CL02PA",
+                      "name": "",
+                      "content": "In the [State] if assembly or installation of the [Goods] was done in the State."
+                    },
+                    {
+                      "ref": "T05C02A27CL02PB",
+                      "name": "",
+                      "content": "Outside the [State] if assembly or installation of the [Goods] was done outside the State."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T05C02A27CL03",
+                  "name": "",
+                  "content": "The place of supply of [Goods] that includes [Export] or [Import] shall be as follows:",
+                  "paragraphs": [
+                    {
+                      "ref": "T05C02A27CL03PA",
+                      "name": "",
+                      "content": "Inside the [State] in the following instances:",
+                      "subparagraphs": [
+                        {
+                          "ref": "T05C02A27CL03PASP01",
+                          "name": "",
+                          "content": "If the supply includes exporting to a place outside the [Implementing States]."
+                        },
+                        {
+                          "ref": "T05C02A27CL03PASP02",
+                          "name": "",
+                          "content": "If the [Recipient of Goods]  in an Implementing State is not registered for Tax in the state of destination, and the total exports from the same supplier to this state does not exceed the mandatory registration threshold for said state."
+                        },
+                        {
+                          "ref": "T05C02A27CL03PASP03",
+                          "name": "",
+                          "content": "The [Recipient of Goods]  does not have a [Tax Registration]  Number in the State, and the total exports from the same supplier in an Implementing State to the [State] exceeds the [Mandatory Registration Threshold]."
+                        }
+                      ]
+                    },
+                    {
+                      "ref": "T05C02A27CL03PB",
+                      "name": "",
+                      "content": "Outside the [State] in the following instances:",
+                      "subparagraphs": [
+                        {
+                          "ref": "T05C02A27CL03PBSP01",
+                          "name": "",
+                          "content": "The supply includes an [Export] to a customer registered for Tax purposes in one of the [Implementing States]."
+                        },
+                        {
+                          "ref": "T05C02A27CL03PBSP02",
+                          "name": "",
+                          "content": "The [Recipient of Goods]  is not registered for Tax in the Implementing State to which export is made, and the total exports from the same supplier to this Implementing State exceeds the mandatory registration threshold for said state."
+                        },
+                        {
+                          "ref": "T05C02A27CL03PBSP03",
+                          "name": "",
+                          "content": "The [Recipient of Goods]  does not have a [Tax Registration]  Number and the [Goods] are Imported from a supplier registered for Tax in any of the [Implementing States] from which import is made, and the total imports from the same supplier to the [State] do not exceed the [Mandatory Registration Threshold]."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "ref": "T05C02A27CL04",
+                  "name": "",
+                  "content": "[Goods] shall not be treated as exported outside the [State] and then reimported if such [Goods] are supplied in the [State] and this supply required that the [Goods] exit and then re-enter the [State] according to the instances specified in the Executive Regulation of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T05C02A28",
+              "name": "Article (28) - Place of Supply of Water and Energy",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T05C02A28CL01",
+                  "name": "",
+                  "content": "The supply of water and all forms of energy specified in the Executive Regulation of this Decree-Law through a distribution system, shall be considered as done in the [Place of Residence] of the [Taxable Trader]  in case the distribution was conducted by a [Taxable Person] having a [Place of Residence] in the [State] to a [Taxable Trader]  having a [Place of Residence] in an Implementing State."
+                },
+                {
+                  "ref": "T05C02A28CL02",
+                  "name": "",
+                  "content": "The supply of water and all forms of energy specified in the Executive Regulation of this Decree-Law through a distribution system, shall be considered to have occurred at the place of actual consumption, if distribution was conducted by a [Taxable Person] to a Non-Taxable Person."
+                }
+              ]
+            },
+            {
+              "ref": "T05C02A29",
+              "name": "Article (29) - Place of Supply of Services",
+              "content": "The place of supply of [Services] shall be the [Place of Residence] of the Supplier.",
+              "clauses": []
+            },
+            {
+              "ref": "T05C02A30",
+              "name": "Article (30) - Place of Supply in Special Cases",
+              "content": "As an exception to what is stipulated in Article (29) of this Decree-Law, the place of supply in special cases shall be as follows:",
+              "clauses": [
+                {
+                  "ref": "T05C02A30CL01",
+                  "name": "",
+                  "content": "Where the [Recipient of Services]  has a [Place of Residence] in another Implementing State and is registered for Tax therein, the place of supply shall be the [Place of Residence] of the [Recipient of Services] ."
+                },
+                {
+                  "ref": "T05C02A30CL02",
+                  "name": "",
+                  "content": "Where the [Recipient of Services]  is in [Business] and has a [Place of Residence] in the State, and the Supplier does not have a [Place of Residence] in the State, the place of supply shall be in the State."
+                },
+                {
+                  "ref": "T05C02A30CL03",
+                  "name": "",
+                  "content": "For the Supply of [Services] related to [Goods], such as installation of [Goods] supplied by others, the place shall be where said [Services] were performed."
+                },
+                {
+                  "ref": "T05C02A30CL04",
+                  "name": "",
+                  "content": "For the Supply of means of transport to a lessee who is not a [Taxable Person] in the [State] and does not have a TRN in an Implementing State, the place shall be where such means of transport were placed at the disposal of the lessee."
+                },
+                {
+                  "ref": "T05C02A30CL05",
+                  "name": "",
+                  "content": "For the Supply of restaurant, hotel, and food and drink catering [Services], the place shall be where such [Services] are actually performed."
+                },
+                {
+                  "ref": "T05C02A30CL06",
+                  "name": "",
+                  "content": "For the Supply of any cultural, artistic, sporting, educational or any similar services, the place shall be where such [Services] were performed."
+                },
+                {
+                  "ref": "T05C02A30CL07",
+                  "name": "",
+                  "content": "For the Supply of [Services] related to real estate as specified in the Executive Regulation of this Decree-Law, the place of supply shall be where the real estate is located."
+                },
+                {
+                  "ref": "T05C02A30CL08",
+                  "name": "",
+                  "content": "For the Supply of transportation [Services], the place of supply shall be where transportation starts. The Executive Regulation of this Decree-Law shall specify the place of supply for transportation [Services] if the trip includes more than one stop."
+                }
+              ]
+            },
+            {
+              "ref": "T05C02A31",
+              "name": "Article (31) - Place of Supply of Telecommunication and Electronic Services",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T05C02A31CL01",
+                  "name": "",
+                  "content": "For telecommunications and electronic [Services] specified in the Executive Regulation of the Decree-Law, the place of supply shall be:",
+                  "paragraphs": [
+                    {
+                      "ref": "T05C02A31CL01PA",
+                      "name": "",
+                      "content": "In the State, to the extent of the use and enjoyment of the supply in the State."
+                    },
+                    {
+                      "ref": "T05C02A31CL01PB",
+                      "name": "",
+                      "content": "Outside the State, to the extent of the use and enjoyment of the supply outside the State."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T05C02A31CL02",
+                  "name": "",
+                  "content": "The actual use and enjoyment of all telecommunications and electronic [Services] shall be where these [Services] were used regardless of the place of contract or payment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T05C03",
+          "name": "Chapter 3",
+          "description": "Place of Residence",
+          "articles": [
+            {
+              "ref": "T05C03A32",
+              "name": "Article (32) - Place of Establishment",
+              "content": "The Place of Residence of the supplier or [Recipient of Services]  shall be as follows:",
+              "clauses": [
+                {
+                  "ref": "T05C03A32CL01",
+                  "name": "",
+                  "content": "The state in which the Person’s [Place of Establishment] is located or where he has a [Fixed Establishment], provided that he does not have a [Place of Establishment] or owns a [Fixed Establishment] in any other state."
+                },
+                {
+                  "ref": "T05C03A32CL02",
+                  "name": "",
+                  "content": "The state in which the Person’s [Place of Establishment] is located or where he has a [Fixed Establishment] that is the most closely related to the supply if he has a [Place of Establishment] in more than one state or has [Fixed Establishment]s in more than one state."
+                },
+                {
+                  "ref": "T05C03A32CL03",
+                  "name": "",
+                  "content": "The state in which the usual [Place of Residence] of the [Person] is located if he does not have a [Place of Establishment] or a [Fixed Establishment] in any state."
+                }
+              ]
+            },
+            {
+              "ref": "T05C03A33",
+              "name": "Article (33) - The Agent",
+              "content": "The [Place of Residence] of an agent shall be regarded as the [Place of Residence] of the principal in the following two cases:",
+              "clauses": [
+                {
+                  "ref": "T05C03A33CL01",
+                  "name": "",
+                  "content": "If the agent regularly exercises the right of negotiation and enters into agreements in favor of the principal."
+                },
+                {
+                  "ref": "T05C03A33CL02",
+                  "name": "",
+                  "content": "If the agent maintains a stock of [Goods] to fulfil supply agreements for the principal regularly."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T05C04",
+          "name": "Chapter 4",
+          "description": "Value of Supply",
+          "articles": [
+            {
+              "ref": "T05C04A34",
+              "name": "Article (34) - Value of Supply",
+              "content": "The value of supply of [Goods] or [Services] for [Consideration] shall be as follows:",
+              "postcontent": "The Executive Regulation of this Decree-Law shall specify the rules to determine the market value.",
+              "clauses": [
+                {
+                  "ref": "T05C04A34CL01",
+                  "name": "",
+                  "content": "If the entire [Consideration] is monetary, the value of the supply shall be the [Consideration] less the Tax."
+                },
+                {
+                  "ref": "T05C04A34CL02",
+                  "name": "",
+                  "content": "If all or part of the [Consideration] is not monetary, the value of the supply is calculated as the overall monetary part plus the market value of the non-monetary part of the [Consideration], and shall not include the Tax."
+                },
+                {
+                  "ref": "T05C04A34CL03",
+                  "name": "",
+                  "content": "For [Services] received by the [Taxable Person] who is obligated to calculate the Tax in accordance with <LNKS>T06C04A48CL01<LNKC>Clause (1) of Article (48)<LNKE> of this Decree-Law, the value of the supply shall be equal to the market value of the consideration without addition of the Tax on that supply."
+                },
+                {
+                  "ref": "T05C04A34CL04",
+                  "name": "",
+                  "content": "If the [Consideration] is related to matters other than the supply of [Goods] or [Services], the value of the supply shall be equal to the part of the [Consideration] that is related to such supply as stated in the Executive Regulation of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T05C04A35",
+              "name": "Article (35) - Value of Import",
+              "content": "The [Import] value of [Goods] consists of:",
+              "clauses": [
+                {
+                  "ref": "T05C04A35CL01",
+                  "name": "",
+                  "content": "The customs value pursuant to [Customs Legislation], including the value of insurance, freight and any customs fees and [Excise Tax] paid on the [Import] of the [Goods]. Tax shall not be included in the Value of the Supply."
+                },
+                {
+                  "ref": "T05C04A35CL02",
+                  "name": "",
+                  "content": "If it is not possible to determine the value pursuant to <LNKS>T05C04A35CL01<LNKC>Clause (1)<LNKE> of this Article, the value shall be determined based on alternate valuation rules stated in the applicable [Customs Legislation]."
+                }
+              ]
+            },
+            {
+              "ref": "T05C04A36",
+              "name": "Article (36) - Value of Supply for Related Parties",
+              "content": "As an exception to Articles (34) and (35) of this Decree-Law, the value of the supply or [Import] of [Goods] or [Services] between [Related Parties] shall be considered equal to the market value if the following conditions are met:",
+              "clauses": [
+                {
+                  "ref": "T05C04A36CL01",
+                  "name": "",
+                  "content": "The value of the supply is less than the market value."
+                },
+                {
+                  "ref": "T05C04A36CL02",
+                  "name": "",
+                  "content": "If the supply is a [Taxable Supply] and the [Recipient of Goods]  or [Recipient of Services]  does not have the right to recover the full Tax that would have been charged to such supply as [Input Tax]."
+                }
+              ]
+            },
+            {
+              "ref": "T05C04A37",
+              "name": "Article (37) - Value of Deemed Supply",
+              "content": "As an exception to Articles (34) and (35) of this Decree-Law, the value of the supply in the case of a [Deemed Supply] when the [Taxable Person] purchases [Goods] or [Services] to make Taxable Supplies but does not use those [Goods] or [Services] for that purpose, will be equal to the total cost incurred by the [Taxable Person] to make this [Deemed Supply] of [Goods] or [Services].",
+              "clauses": []
+            },
+            {
+              "ref": "T05C04A38",
+              "name": "Article (38) - Tax-Inclusive Prices",
+              "content": "For Taxable Supplies, the advertised price shall include the Tax. Instances where prices do not include the Tax shall be determined by the Executive Regulation of this Decree-Law.",
+              "clauses": []
+            },
+            {
+              "ref": "T05C04A39",
+              "name": "Article (39) - Value of Supply in case of Discount or Subsidies",
+              "content": "When discounts are made before or after the Date of Supply or subsidies provided by the [State] to the supplier for that supply, the value of the supply shall be reduced in proportion to such discounts or subsidies.",
+              "postcontent": "The Executive Regulation of this Decree-Law shall specify the conditions and restrictions for calculating the Tax when the discount is made.",
+              "clauses": []
+            },
+            {
+              "ref": "T05C04A40",
+              "name": "Article (40) - Value of Supply of Vouchers",
+              "content": "The value of supply of a [Voucher] is the difference between the consideration received by the supplier of the [Voucher] and the advertised monetary value of the [Voucher].",
+              "clauses": []
+            },
+            {
+              "ref": "T05C04A41",
+              "name": "Article (41) - Value of Supply of Postage Stamps",
+              "content": "The value of supply for postage stamps that allow the user to use postal services in the [State] shall be the amount shown on the stamp.",
+              "clauses": []
+            },
+            {
+              "ref": "T05C04A42",
+              "name": "Article (42) - Temporary Transfer of Goods",
+              "content": "If [Goods] are transferred temporarily from the domestic market into a [Designated Zone] or outside the [State] for completing the manufacturing or repair in order to re-import them into the [State], the value of the supply when re-Imported shall be the value of the [Services] rendered.",
+              "clauses": []
+            }
+          ]
+        },
+        {
+          "ref": "T05C05",
+          "name": "Chapter 5",
+          "description": "Profit Margin",
+          "articles": [
+            {
+              "ref": "T05C05A43",
+              "name": "Article (43) - Charging Tax based on Profit Margin",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T05C05A43CL01",
+                  "name": "",
+                  "content": "The [Registrant]  may, in any [Tax Period], calculate and charge Tax based on the profit margin earned on the Taxable Supplies as specified in the Executive Regulation of this Decree-Law and not based on the value of these supplies, and shall notify the [Authority] of the same."
+                },
+                {
+                  "ref": "T05C05A43CL02",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the conditions to be met for the application of the provisions of this Article."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T06",
+      "name": "Title 6",
+      "description": "Zero Rates and Exemptions",
+      "chapters": [
+        {
+          "ref": "T06C01",
+          "name": "Chapter 1",
+          "description": "Zero Rate",
+          "articles": [
+            {
+              "ref": "T06C01A44",
+              "name": "Article (44) - Supply and Import Taxable at Zero Rate",
+              "content": "The supply and [Import] of [Goods] and [Services] specified in this Chapter made by a [Taxable Person] shall be a [Taxable Supply] subject to the zero rate.",
+              "clauses": []
+            },
+            {
+              "ref": "T06C01A45",
+              "name": "Article (45) - Supply of Goods and Services that is Subject to Zero Rate",
+              "content": "The Zero rate shall apply to the following [Goods] and [Services]:",
+              "clauses": [
+                {
+                  "ref": "T06C01A45CL01",
+                  "name": "",
+                  "content": "A direct on indirect [Export] to outside the [Implementing States] as specified in the Executive A direct or indirect [Export] to outside the [Implementing States] as specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T06C01A45CL02",
+                  "name": "",
+                  "content": "International transport of passengers and [Goods] which starts or ends in the [State] or passes through its territory, including also services related to such transport."
+                },
+                {
+                  "ref": "T06C01A45CL03",
+                  "name": "",
+                  "content": "Air passenger transport in the [State] if it is considered an “international carriage” pursuant to Article (1) of the Warsaw Convention for the Unification of Certain Rules Relating to International Carriage by Air 1929."
+                },
+                {
+                  "ref": "T06C01A45CL04",
+                  "name": "",
+                  "content": "Supply of air, sea and land means of transport for the transportation of passengers and [Goods] as specified in the Executive Regulations of this Decree-Law."
+                },
+                {
+                  "ref": "T06C01A45CL05",
+                  "name": "",
+                  "content": "Supply of [Goods] and [Services] related to the supply of the means of transport mentioned in <LNKS>T06C01A45CL05<LNKC>Clause (4)<LNKE> of this Article and which are designed for the operation, repair, maintenance or conversion of these means of transport."
+                },
+                {
+                  "ref": "T06C01A45CL06",
+                  "name": "",
+                  "content": "Supply of aircrafts or vessels designated for rescue and assistance by air or sea."
+                },
+                {
+                  "ref": "T06C01A45CL07",
+                  "name": "",
+                  "content": "Supply of [Goods] and [Services] related to the transfer of [Goods] or passengers aboard land, air or sea means of transport pursuant to Clauses <LNKS>T06C01A45CL02<LNKC>(2)<LNKE> and <LNKS>T06C01A45CL03<LNKC>(3)<LNKE> of this Article, designated for consumption on board; or anything consumed by any means of transport, any installations or addition thereto or any other use during transportation."
+                },
+                {
+                  "ref": "T06C01A45CL08",
+                  "name": "",
+                  "content": "The supply or [Import] of investment precious metals. The Executive Regulation of this Decree-Law shall specify the precious metals and the standards based on which they are classified as being for investment purposes."
+                },
+                {
+                  "ref": "T06C01A45CL09",
+                  "name": "",
+                  "content": "The first supply of residential buildings within (3) years of its completion, either through sale or lease in whole or in part, according to the controls specified in the Executive Regulation of this Decree-Law"
+                },
+                {
+                  "ref": "T06C01A45CL10",
+                  "name": "",
+                  "content": "The first supply of buildings specifically designed to be used by [Charities] through sale or lease according to the controls specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T06C01A45CL11",
+                  "name": "",
+                  "content": "The first supply of buildings converted from non-residential to residential through sale or lease according to the conditions specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T06C01A45CL12",
+                  "name": "",
+                  "content": "The supply of crude oil and natural gas."
+                },
+                {
+                  "ref": "T06C01A45CL13",
+                  "name": "",
+                  "content": "The supply of educational services and related [Goods] and [Services] for nurseries, preschool, elementary education, and higher educational institutions owned or funded by Federal or local Government, as specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T06C01A45CL14",
+                  "name": "",
+                  "content": "The supply of preventive and basic healthcare [Services] and related [Goods] and [Services] according to what is specified in the Executive Regulation of this Decree-Law."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T06C02",
+          "name": "Chapter 2",
+          "description": "Exemptions",
+          "articles": [
+            {
+              "ref": "T06C02A46",
+              "name": "Article (46) - Supply Exempt from Tax",
+              "content": "The following supplies shall be exempt from Tax:",
+              "postcontent": "The Executive Regulation of this Decree-Law shall specify the conditions and controls for exempting the supplies mentioned in the preceding clauses of this Article.",
+              "clauses": [
+                {
+                  "ref": "T06C02A46CL01",
+                  "name": "",
+                  "content": "Financial services that are specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T06C02A46CL02",
+                  "name": "",
+                  "content": "Supply of residential buildings through sale or lease, other than that which is zero-rated according to Clauses <LNKS>T06C01A45CL09<LNKC>(9)<LNKE> and <LNKS>T06C01A45CL11<LNKC>(11)<LNKE> of Article (45) of this Decree-Law."
+                },
+                {
+                  "ref": "T06C02A46CL03",
+                  "name": "",
+                  "content": "Supply of bare land."
+                },
+                {
+                  "ref": "T06C02A46CL04",
+                  "name": "",
+                  "content": "Supply of local passenger transport."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T06C03",
+          "name": "Chapter 3",
+          "description": "Single and Mixed Supplies",
+          "articles": [
+            {
+              "ref": "T06C03A47",
+              "name": "Article (47) - Supply of More Than One Component",
+              "content": "The Executive Regulation of this Decree-Law will specify the controls to determine the tax treatment of any supply composed of more than one component for a single price, where each component is subject to a different tax treatment.",
+              "clauses": []
+            }
+          ]
+        },
+        {
+          "ref": "T06C04",
+          "name": "Chapter 4",
+          "description": "Specific Obligations to Account for Tax",
+          "articles": [
+            {
+              "ref": "T06C04A48",
+              "name": "Article (48) - Reverse Charge",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T06C04A48CL01",
+                  "name": "",
+                  "content": "If the [Taxable Person] imports [Concerned Goods] or [Concerned Services] for the purposes of his [Business], then he shall be treated as making a [Taxable Supply] to himself, and shall be responsible for all applicable Tax obligations and accounting for [Due Tax] in respect of these supplies."
+                },
+                {
+                  "ref": "T06C04A48CL02",
+                  "name": "",
+                  "content": "As an exception to <LNKS>T06C04A48CL01<LNKC>Clause (1)<LNKE> of this Article, in case the final destination of the [Goods] when entering the [State] is another Implementing State, the [Taxable Person] shall pay the [Due Tax] on [Import] of Concerned Goods pursuant to the mechanism specified by the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T06C04A48CL03",
+                  "name": "",
+                  "content": "If a [Registrant]  makes a [Taxable Supply] in the [State] to another [Registrant]  of any crude or refined oil, unprocessed or processed natural gas, or any hydrocarbons, and the Recipient of these [Goods] intends to either resell the purchased [Goods] as crude or refined oil, unprocessed or processed natural gas, or any hydrocarbons, or use these [Goods] to produce or distribute any form of energy, the following rules shall apply:",
+                  "paragraphs": [
+                    {
+                      "ref": "T06C04A48CL03PA",
+                      "name": "",
+                      "content": "the [Registrant]  making the Supply shall not charge Tax on the value of the supply of the The [Registrant]  making the Supply shall not charge Tax on the value of the supply of the [Goods] referred to in this paragraph."
+                    },
+                    {
+                      "ref": "T06C04A48CL03PB",
+                      "name": "",
+                      "content": "The Recipient of the [Goods] shall calculate the Tax on the value of the [Goods] supplied thereto and shall be responsible for all applicable Tax obligations and for calculating the [Due Tax] in respect of such supplies."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T06C04A48CL04",
+                  "name": "",
+                  "content": "The provisions of <LNKS>T06C04A48CL03<LNKC>Clause (3)<LNKE> of this Article shall not apply in any of the following situations:",
+                  "paragraphs": [
+                    {
+                      "ref": "T06C04A48CL04PA",
+                      "name": "",
+                      "content": "Where, before the Date of Supply, the [Recipient of Goods]  has not provided a written confirmation to the supplier that his acquisition of the [Goods] is for the purpose of resale."
+                    },
+                    {
+                      "ref": "T06C04A48CL04PB",
+                      "name": "",
+                      "content": "Where, before the Date of Supply, the [Recipient of Goods]  has not provided a written confirmation to the supplier that he is a [Registrant]  and the supplier has not verified the [Tax Registration]  of the [Recipient of Goods]  by means approved by the [Authority]."
+                    },
+                    {
+                      "ref": "T06C04A48CL04PC",
+                      "name": "",
+                      "content": "Where the [Taxable Supply] would be subject to Tax at the rate of 0% in accordance with <LNKS>T06C01A45CL01<LNKC>Clause (1)<LNKE> of Article (45) of this Decree-Law."
+                    },
+                    {
+                      "ref": "T06C04A48CL04PD",
+                      "name": "",
+                      "content": "Where the [Taxable Supply] includes a supply of [Goods] or [Services] other than the [Goods] referred to in <LNKS>T06C04A48CL03<LNKC>Clause (3)<LNKE> of this Article."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T06C04A48CL05",
+                  "name": "",
+                  "content": "Where a [Recipient of Goods]  of any crude or refined oil, unprocessed or processed natural gas, or any hydrocarbons confirms in writing to the supplier that he is a [Registrant]  for the purposes of applying <LNKS>T06C04A48CL03<LNKC>Clause (3)<LNKE> of this Article, the following shall appl:",
+                  "paragraphs": [
+                    {
+                      "ref": "T06C04A48CL05PA",
+                      "name": "",
+                      "content": "The supplier shall not be liable for calculating the Tax in relation to the supply unless he was aware or supposed to be aware, that the Recipient was not a [Registrant]  at the Date of Supply."
+                    },
+                    {
+                      "ref": "T06C04A48CL05PB",
+                      "name": "",
+                      "content": "The Recipient shall be liable for the calculation of any [Due Tax] in respect of the supply."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T06C04A48CL06",
+                  "name": "",
+                  "content": "If the supplier mentioned in paragraph (a) of <LNKS>T06C04A48CL05<LNKC>Clause (5)<LNKE> of this Article is supposed to be aware that the [Recipient of Goods]  was not registered at the Date of Supply, the supplier and the [Recipient of Goods]  shall be jointly and severely liable for any [Due Tax] and relevant penalties in respect of the supply."
+                },
+                {
+                  "ref": "T06C04A48CL07",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify:",
+                  "paragraphs": [
+                    {
+                      "ref": "T06C04A48CL07PA",
+                      "name": "",
+                      "content": "Conditions and instances where the mechanism in <LNKS>T06C04A48CL01<LNKC>Clause (1)<LNKE> of this Article applies."
+                    },
+                    {
+                      "ref": "T06C04A48CL07PB",
+                      "name": "",
+                      "content": "Additional obligations related to record keeping for Tax calculated according to the mechanism in <LNKS>T06C04A48CL01<LNKC>Clause (1)<LNKE> of this Article."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ref": "T06C04A49",
+              "name": "Article (49) - Import of Concerned Goods",
+              "content": "A person not registered for Tax shall pay [Due Tax] on [Import] of [Concerned Goods] from outside the [Implementing States] on the date of [Import] pursuant to the payment mechanism specified by the Executive Regulation of this Decree-Law.",
+              "clauses": []
+            }
+          ]
+        },
+        {
+          "ref": "T06C05",
+          "name": "Chapter 5",
+          "description": "Designated Zones",
+          "articles": [
+            {
+              "ref": "T06C05A50",
+              "name": "Article (50) - Designated Zone",
+              "content": "A “Designated Zone” that meets the conditions specified in the Executive Regulation of this Decree-Law shall be treated as being outside the State.",
+              "clauses": []
+            },
+            {
+              "ref": "T06C05A51",
+              "name": "Article (51) - Transfer of Goods in Designated Zones",
+              "content": "A person not registered for Tax shall pay [Due Tax] on [Import] of [Concerned Goods] from outside the [Implementing States] on the date of [Import] pursuant to the payment mechanism specified by the Executive Regulation of this Decree-Law.",
+              "clauses": [
+                {
+                  "ref": "T06C05A51CL01",
+                  "name": "",
+                  "content": "[Goods] may be transferred from one [Designated Zone] to another [Designated Zone] without any Tax becoming due."
+                },
+                {
+                  "ref": "T06C05A51CL02",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the procedures and conditions for the transfer of [Goods] from and to a [Designated Zone] as well as the method of keeping, storing and processing such [Goods] therein."
+                }
+              ]
+            },
+            {
+              "ref": "T06C05A52",
+              "name": "Article (52) - Exceptions for Designated Zone",
+              "content": "As an exception to Article (50) of this Decree-Law, the Executive Regulation of this Decree-Law shall specify the conditions under which the [Business] conducted within the Designated Zones will be regarded as being conducted in the State.",
+              "clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T07",
+      "name": "Title 7",
+      "description": "Calculation of Due Tax",
+      "chapters": [
+        {
+          "ref": "T07C01",
+          "name": "Chapter 1",
+          "description": "Due Tax for a Tax Period",
+          "articles": [
+            {
+              "ref": "T07C01A53",
+              "name": "Article (53) - Due Tax for a Tax Period",
+              "content": "The [Payable Tax] for any [Tax Period] shall be calculated as being equal to the total [Output Tax] payable pursuant to this Decree-Law and which has been done in the [Tax Period] less the total [Recoverable Tax] by said [Taxable Person] over the same [Tax Period].",
+              "clauses": []
+            },
+            {
+              "ref": "T07C01A54",
+              "name": "Article (54) - Recoverable Input Tax",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C01A54CL01",
+                  "name": "",
+                  "content": "The [Input Tax] that is recoverable by a [Taxable Person] for any [Tax Period] is the total of [Input Tax] paid for [Goods] and [Services] which are used or intended to be used for making any of the following:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C01A54CL01PA",
+                      "name": "",
+                      "content": "Taxable Supplies."
+                    },
+                    {
+                      "ref": "T07C01A54CL01PB",
+                      "name": "",
+                      "content": "Supplies that are made outside the [State] which would have been Taxable Supplies had they been made in the State."
+                    },
+                    {
+                      "ref": "T07C01A54CL01PC",
+                      "name": "",
+                      "content": "Supplies specified in the Executive Regulation of this Decree-Law that are made outside the State, which would have been treated as exempt had they been made inside the State."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T07C01A54CL02",
+                  "name": "",
+                  "content": "Where [Goods] are imported by a [Taxable Person] through another Implementing State and the intended final destination of those [Goods] was the [State] at the time of [Import], then the [Taxable Person] shall be entitled to treat the Tax paid in respect of [Import] of [Goods] into the Implementing State as [Recoverable Tax] subject to conditions specified the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T07C01A54CL03",
+                  "name": "",
+                  "content": "Where [Goods] were acquired by a [Taxable Person] in another Implementing State and then moved into the State, the [Taxable Person] shall be entitled to treat the Tax paid in respect of the [Goods] in the Implementing State as [Recoverable Tax] subject to the conditions specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T07C01A54CL04",
+                  "name": "",
+                  "content": "A [Taxable Person] shall not be entitled to recover any [Input Tax] in respect of Tax paid in accordance with <LNKS>T06C04A48CL02<LNKC>Clause (2) of Article (48)<LNKE> of this Decree-Law."
+                },
+                {
+                  "ref": "T07C01A54CL05",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the instances where [Input Tax] is excepted from being recovered."
+                }
+              ]
+            },
+            {
+              "ref": "T07C01A55",
+              "name": "Article (55) - Recovery of Recoverable Input Tax in the Tax Period",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C01A55CL01",
+                  "name": "",
+                  "content": "Taking into consideration the provisions of Article (56) of this Decree-Law, the Recoverable [Input Tax] may be deducted through the [Tax Return]  relating to the first [Tax Period] in which the following conditions have been satisfied:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C01A55CL01PA",
+                      "name": "",
+                      "content": "The [Taxable Person] receives and keeps the [Tax Invoice] as per the provisions of this Decree-Law, provided that the [Tax Invoice] includes the details of the supply related to such [Input Tax], or keeps any other document pursuant to <LKNS>T07C05A65CL03<LNKC>Clause (3) of Article (65)<LNKE> of this Decree-Law in relation to the Supply or [Import] on which [Input Tax] was paid."
+                    },
+                    {
+                      "ref": "T07C01A55CL01PA",
+                      "name": "",
+                      "content": "The [Taxable Person] pays the [Consideration] for the Supply or any part thereof, as specified in the Executive Regulation of this Decree-Law."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T07C01A55CL02",
+                  "name": "",
+                  "content": "If the [Taxable Person] entitled to recover the [Input Tax] fails to do so during the [Tax Period] in which the conditions stated in <LNKS>T07C01A55CL01<LNKC>Clause (1)<LNKE> of this Article have been satisfied, he may include the [Recoverable Tax] in the [Tax Return]  for the subsequent [Tax Period]."
+                }
+              ]
+            },
+            {
+              "ref": "T07C01A56",
+              "name": "Article (56) - Input Tax Paid before Tax Registration ",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C01A56CL01",
+                  "name": "",
+                  "content": "A [Registrant]  may recover [Recoverable Tax] incurred before [Tax Registration]  on the [Tax Return]  submitted for the first [Tax Period] following [Tax Registration] , which has been paid for any of the following:",
+                  "postcontent": "Provided that these [Goods] and [Services] were used to make supplies that give the right to [Input Tax] recovery upon [Tax Registration] .",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C01A56CL01PA",
+                      "name": "",
+                      "content": "Supply of [Goods] and [Services] made to him prior to the date of [Tax Registration] ."
+                    },
+                    {
+                      "ref": "T07C01A56CL01PB",
+                      "name": "",
+                      "content": "[Import] of [Goods] by him prior to the date of [Tax Registration] ."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T07C01A56CL02",
+                  "name": "",
+                  "content": "As an exception to the provisions of <LNKS>T07C01A56CL01<LNKC>Clause (1)<LNKE> of this Article, [Input Tax] may not be recovered in any of the following instances:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C01A56CL02PA",
+                      "name": "",
+                      "content": "The receipt of [Goods] and [Services] for purposes other than making Taxable Supplies."
+                    },
+                    {
+                      "ref": "T07C01A56CL02PB",
+                      "name": "",
+                      "content": "[Input Tax] related to the part of the [Capital Assets] that depreciated before the date of [Tax Registration] ."
+                    },
+                    {
+                      "ref": "T07C01A56CL02PC",
+                      "name": "",
+                      "content": "If the [Services] were received more than five years prior to the date of [Tax Registration] ."
+                    },
+                    {
+                      "ref": "T07C01A56CL02PD",
+                      "name": "",
+                      "content": "Where a [Person] has moved the [Goods] to another Implementing State prior to the [Tax Registration]  in the State."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ref": "T07C01A57",
+              "name": "Article (57) - Recovery of Tax by Government Entities and Charities",
+              "content": "A Cabinet Decision shall be issued at the suggestion of the [Minister] determining the [Government Entities] and [Charities] entitled to recover the full amount of [Input Tax] paid by them, except for:",
+              "clauses": [
+                {
+                  "ref": "T07C01A57CL01",
+                  "name": "",
+                  "content": "Tax excluded from recovery as specified in the Executive Regulation of this Decree-Law."
+                },
+                {
+                  "ref": "T07C01A57CL02",
+                  "name": "",
+                  "content": "Tax paid for [Goods] and [Services] used to perform exempt supplies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T07C02",
+          "name": "Chapter 2",
+          "description": "Apportionment and Adjustment of Input Tax",
+          "articles": [
+            {
+              "ref": "T07C02A58",
+              "name": "Article (58) - Calculating the Input Tax that may be Recovered",
+              "content": "The Executive Regulation of this Decree-Law shall specify the method in which the [Input Tax] that may be recovered is calculated, if [Input Tax] is paid for [Goods] or [Services] during a specific [Tax Period] to make supplies that allow recovery under Article (54) and others that do not allow recovery, or for activities conducted that are not in the course of doing the [Business].",
+              "clauses": []
+            },
+            {
+              "ref": "T07C02A59",
+              "name": "Article (59) - Conditions and Mechanism of Input Tax Adjustment",
+              "content": "The Executive Regulation of this Decree-Law shall specify the conditions and mechanism for adjusting [Input Tax] in the following cases:",
+              "clauses": [
+                {
+                  "ref": "T07C02A59CL01",
+                  "name": "",
+                  "content": "If the [Taxable Person] attributes the [Input Tax], either fully or partially, to make Taxable Supplies, but changed the use, or the intended use, of those [Goods] or [Services] prior to making the Taxable Supplies."
+                },
+                {
+                  "ref": "T07C02A59CL02",
+                  "name": "",
+                  "content": "If the [Taxable Person] attributes the [Input Tax], either fully or partially, to make Exempt Supplies, or for activities that do not fall within the conduct of [Business], but changed the use or the intended use of the those [Goods] or [Services] related to the [Input Tax] prior to making Exempt Supplies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T07C03",
+          "name": "Chapter 3",
+          "description": "Capital Assets Scheme",
+          "articles": [
+            {
+              "ref": "T07C03A60",
+              "name": "Article (60) - Capital Assets Scheme",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C03A60CL01",
+                  "name": "",
+                  "content": "If a Capital Asset is supplied or imported by a [Taxable Person], the latter shall assess the period of use of such asset and make the necessary adjustments to the [Input Tax] paid pursuant to the [Capital Assets Scheme]."
+                },
+                {
+                  "ref": "T07C03A60CL02",
+                  "name": "",
+                  "content": "A [Taxable Person] shall keep the records related to [Capital Assets] for at least ten years."
+                },
+                {
+                  "ref": "T07C03A60CL03",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the following:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C03A60CL03PA",
+                      "name": "",
+                      "content": "[Capital Assets] subject to the provisions of this Decree-Law and their estimated useful life."
+                    },
+                    {
+                      "ref": "T07C03A60CL03PB",
+                      "name": "",
+                      "content": "The method of adjusting [Capital Assets] and the periods for which adjustments should be made."
+                    },
+                    {
+                      "ref": "T07C03A60CL03PC",
+                      "name": "",
+                      "content": "Instances where the period for keeping records of Capital Asset records is extended."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T07C04",
+          "name": "Chapter 4",
+          "description": "Adjustment of Tax after the Supply Date",
+          "articles": [
+            {
+              "ref": "T07C04A61",
+              "name": "Article (61) - Instances and Conditions for Output Tax Adjustments",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C04A61CL01",
+                  "name": "",
+                  "content": "A [Registrant]  shall adjust [Output Tax] after the date of supply in any of the following instances:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C04A61CL01PA",
+                      "name": "",
+                      "content": "If the supply was cancelled."
+                    },
+                    {
+                      "ref": "T07C04A61CL01PB",
+                      "name": "",
+                      "content": "If the Tax treatment of the supply has changed due to a change in the nature of the supply."
+                    },
+                    {
+                      "ref": "T07C04A61CL01PC",
+                      "name": "",
+                      "content": "If the previously agreed [Consideration] for the supply was altered for any reason."
+                    },
+                    {
+                      "ref": "T07C04A61CL01PD",
+                      "name": "",
+                      "content": "If the [Recipient of Goods]  or [Recipient of Services]  returned them to the [Registrant]  in full or in part and the [Consideration] was returned in full or in part."
+                    },
+                    {
+                      "ref": "T07C04A61CL01PE",
+                      "name": "",
+                      "content": "If the Tax was charged in error."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T07C04A61CL02",
+                  "name": "",
+                  "content": "<LKNS>T07C04A61CL01PE<LNKC>Paragraph (e) of Clause (1)<LNKE> of this Article shall not apply where the place of supply was treated by the supplier at the Date of Supply as being subject to <LNKS>T05C02A27CL01<LKNC>Clause (1) of Article (27)<LNKE>, but, as a result of a movement of the [Goods], it turned out that it should have been treated as a supply under <LNKS>T05C02A27CL03PB<LKNC>paragraph (b)(1) of Clause (3)<LNKE> of the same."
+                },
+                {
+                  "ref": "T07C04A61CL02",
+                  "name": "",
+                  "content": "In order to adjust the [Output Tax] any of the following conditions shall be met:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C04A61CL02PA",
+                      "name": "",
+                      "content": "If the [Output Tax] amount charged on the supply stated in the [Tax Invoice] does not match the Tax that should actually be charged on the supply as a result of any of the events mentioned in <LNKS>T07C04A61CL01<LNKC>Clause (1)<LNKE> of this Article."
+                    },
+                    {
+                      "ref": "T07C04A61CL02PB",
+                      "name": "",
+                      "content": "If the [Registrant]  submits a [Tax Return]  for the [Tax Period] during which the supply occurred and an amount was incorrectly calculated as being the amount of [Output Tax] due for this supply as the result of any of the events mentioned in <LNKS>T07C04A61CL01<LNKC>Clause (1)<LNKE> of this Article."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ref": "T07C04A62",
+              "name": "Article (62) - Mechanism for Output Tax Adjustment",
+              "content": "The [Output Tax] shall be adjusted according to the following:",
+              "clauses": [
+                {
+                  "ref": "T07C04A62CL01",
+                  "name": "",
+                  "content": "If the [Output Tax] due for the supply exceeds the [Output Tax] calculated by the [Registrant] , the [Registrant]  shall issue a new [Tax Invoice] for the additional amount of Tax and calculate the additional Tax due for the [Tax Period] during which such an increase was identified."
+                },
+                {
+                  "ref": "T07C04A62CL02",
+                  "name": "",
+                  "content": "If the [Output Tax] calculated by the [Registrant]  exceeds the [Output Tax] which should have been charged on the supply, the [Registrant]  shall issue a [Tax Credit Note] according to the provisions of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T07C04A63",
+              "name": "Article (63) - Adjustment due to the Issuance of Tax Credit Notes",
+              "content": "Without prejudice to <LKNS>T07C04A62CL02<LNKC>Clause (2) of Article (62)<LNKE> of this Decree-Law, if the [Registrant]  issues a [Tax Credit Note] to correct [Output Tax] charged to the [Recipient of Goods]  or [Recipient of Services] , the Tax stated in the [Tax Credit Note] shall be considered as:",
+              "clauses": [
+                {
+                  "ref": "T07C04A63CL01",
+                  "name": "",
+                  "content": "A reduction of the [Output Tax] for the [Registrant]  of this [Tax Credit Note]."
+                },
+                {
+                  "ref": "T07C04A63CL02",
+                  "name": "",
+                  "content": "A reduction of the [Input Tax] by the [Recipient of Goods]  or [Recipient of Services]  for the [Tax Period] during which the [Tax Credit Note] was received."
+                }
+              ]
+            },
+            {
+              "ref": "T07C04A64",
+              "name": "Article (64) - Adjustment for Bad Debts",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C04A64CL01",
+                  "name": "",
+                  "content": "A [Registrant]  supplier may reduce the [Output Tax] in a current [Tax Period] to adjust the [Output Tax] paid for any previous [Tax Period] if all of the following conditions are met:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C04A64CL01PA",
+                      "name": "",
+                      "content": "[Goods] and [Services] have been supplied and the [Due Tax] has been charged and paid."
+                    },
+                    {
+                      "ref": "T07C04A64CL01PB",
+                      "name": "",
+                      "content": "[Consideration] for the supply has been written off in full or part as a bad debt in the accounts of the supplier."
+                    },
+                    {
+                      "ref": "T07C04A64CL01PC",
+                      "name": "",
+                      "content": "More than six (6) months has passed from the date of the supply."
+                    },
+                    {
+                      "ref": "T07C04A64CL01PD",
+                      "name": "",
+                      "content": "The [Registrant]  supplier has notified the [Recipient of Goods]  and the [Recipient of Services]  of the amount of [Consideration] for the supply that has been written off."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T07C04A64CL02",
+                  "name": "",
+                  "content": "The registered [Recipient of Goods]  or [Recipient of Services]  shall reduce the Recoverable [Input Tax] for the current [Tax Period] related to a supply received during any previous [Tax Period] where the [Consideration] has not been paid and all of the following conditions are met:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C04A64CL02PA",
+                      "name": "",
+                      "content": "The registered supplier reduced the [Output Tax] as stated in <LKNS>T07C04A64CL01<LNKC>Clause (1)<LNKE> of this Article and the [Recipient of Goods]  and the [Recipient of Services]  has received a notification from the supplier of the [Consideration] being written off."
+                    },
+                    {
+                      "ref": "T07C04A64CL02PB",
+                      "name": "",
+                      "content": "The [Recipient of Goods]  and [Recipient of Services]  received the [Goods] and [Services] and the relevant [Input Tax] was deducted."
+                    },
+                    {
+                      "ref": "T07C04A64CL02PC",
+                      "name": "",
+                      "content": "The [Consideration] was not paid in full or in part for the supply for over (6) six months."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T07C04A64CL03",
+                  "name": "",
+                  "content": "The reduction stated in Clause <LNKS>T07C04A64CL01<LKNC>(1)<LNKE> and <LNKS>T07C04A64CL02<LKNC>(2)<LNKE> shall be equal to the Tax related to the [Consideration] which has been written off according to <LNKS>T07C04A64CL01PB<LKNC>paragraph (b) of Clause (1)<LNKE> of this Article."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T07C05",
+          "name": "Chapter 5",
+          "description": "Tax Invoices",
+          "articles": [
+            {
+              "ref": "T07C05A65",
+              "name": "Article (65) - Conditions and Requirements for Issuing Tax Invoices",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C05A65CL01",
+                  "name": "",
+                  "content": "A [Registrant]  making a [Taxable Supply] shall issue an original [Tax Invoice] and deliver it to the [Recipient of Goods]  or [Recipient of Services] ."
+                },
+                {
+                  "ref": "T07C05A65CL02",
+                  "name": "",
+                  "content": "A [Registrant]  making a [Deemed Supply] shall issue an original [Tax Invoice] and deliver it to a [Recipient of Goods]  or [Recipient of Services]  if available or keep it in his records if there is no [Recipient of Goods]  or [Recipient of Services] ."
+                },
+                {
+                  "ref": "T07C05A65CL03",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the following:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C05A65CL03PA",
+                      "name": "",
+                      "content": "Data to be included in the [Tax Invoice]."
+                    },
+                    {
+                      "ref": "T07C05A65CL03PB",
+                      "name": "",
+                      "content": "The conditions and procedures required to issue an electronic [Tax Invoice]."
+                    },
+                    {
+                      "ref": "T07C05A65CL03PC",
+                      "name": "",
+                      "content": "Instances where the [Registrant]  is not required to issue and deliver a [Tax Invoice] to the [Recipient of Goods]  or the [Recipient of Services] ."
+                    },
+                    {
+                      "ref": "T07C05A65CL03PD",
+                      "name": "",
+                      "content": "Instances where other documents may be issued in place of the [Tax Invoice] as well as the conditions thereof and the data to be included therein."
+                    },
+                    {
+                      "ref": "T07C05A65CL03PE",
+                      "name": "",
+                      "content": "Instances where another [Person] may issue a [Tax Invoice] on behalf of the registered supplier."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T07C05A65CL04",
+                  "name": "",
+                  "content": "Any [Person] who receives an amount as Tax pursuant to any document issued by him shall pay this amount to the [Authority] even if it is not due."
+                }
+              ]
+            },
+            {
+              "ref": "T07C05A66",
+              "name": "Article (66) - Document of Supplies to an Implementing States",
+              "content": "Without prejudice to Article (65) of this Decree-Law, each [Registrant]  who supplies [Goods] or [Services] considered as supplied in any of the [Implementing States], shall provide the [Recipient of Goods]  and [Recipient of Services]  with a document that includes all the information that must be included in the [Tax Invoice] and any other information as specified in the Executive Regulation of this Decree-Law, provided that this document is not labelled “Tax Invoice” and does not include any Tax charged.",
+              "clauses": []
+            },
+            {
+              "ref": "T07C05A67",
+              "name": "Article (67) - Date of Issuance of Tax Invoice",
+              "content": "The [Registrant]  shall issue a [Tax Invoice] within 14 days as of the date of supply as stated in Article (25) of this Decree-Law.",
+              "clauses": []
+            },
+            {
+              "ref": "T07C05A68",
+              "name": "Article (68) - Rounding on Tax Invoices",
+              "content": "For the purpose of stating the Tax due on a [Tax Invoice], the Executive Regulation of this Decree-Law shall specify the method of calculation and stating the total amount to be paid if the Tax is less than one fils of a UAE Dirham.",
+              "clauses": []
+            },
+            {
+              "ref": "T07C05A69",
+              "name": "Article (69) - Currency Used on Tax Invoices",
+              "content": "If the supply is in a currency other than the UAE Dirham, then for the purposes of the [Tax Invoice], the amount stated in the [Tax Invoice] shall be converted into the UAE Dirham according to the exchange rate approved by the Central Bank at the date of supply.",
+              "clauses": []
+            }
+          ]
+        },
+        {
+          "ref": "T07C06",
+          "name": "Chapter 6",
+          "description": "Tax Credit Notes",
+          "articles": [
+            {
+              "ref": "T07C06A65",
+              "name": "Article (70) - Conditions and Requirements for Issuing Tax Credit Note",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T07C06A65CL01",
+                  "name": "",
+                  "content": "The [Registrant]  shall issue an original [Tax Credit Note] when a reduction of [Output Tax] occurs in relation to any supply made by him according to <LNKS>T07C04A62CL02<LNKC>Clause (2) of Article (62)<LNKE> of this Decree-Law and deliver the same to the [Recipient of Goods]  or [Recipient of Services] ."
+                },
+                {
+                  "ref": "T07C06A65CL02",
+                  "name": "",
+                  "content": "When making a [Deemed Supply], the [Registrant]  shall issue an original [Tax Credit Note] when a reduction occurs to the [Output Tax] in relation to such supply according to <LNKS>T07C04A61<LNKC>Article (61)<LNKE> of this Decree-Law and shall keep the same in his records."
+                },
+                {
+                  "ref": "T07C06A65CL03",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the following:",
+                  "paragraphs": [
+                    {
+                      "ref": "T07C06A65CL03PA",
+                      "name": "",
+                      "content": "Basic data that should be included in the [Tax Credit Note] in instances where the [Taxable Person] is required to issue this Note."
+                    },
+                    {
+                      "ref": "T07C06A65CL03PB",
+                      "name": "",
+                      "content": "The conditions and procedures required for the issuance of an electronic [Tax Credit Note]."
+                    },
+                    {
+                      "ref": "T07C06A65CL03PC",
+                      "name": "",
+                      "content": "Instances where the [Registrant]  is not required to issue and deliver a [Tax Credit Note] to the [Recipient of Goods]  or the [Recipient of Services] ."
+                    },
+                    {
+                      "ref": "T07C06A65CL03PD",
+                      "name": "",
+                      "content": "Instances where other documents may be issued in place of the [Tax Credit Note] as well as conditions for the issuance of such document and the data to be included therein."
+                    },
+                    {
+                      "ref": "T07C06A65CL03PE",
+                      "name": "",
+                      "content": ""
+                    },
+                    {
+                      "ref": "T07C06A65CL03PF",
+                      "name": "",
+                      "content": "Instances where another [Person] may issue a [Tax Credit Note] on behalf of the registered supplier."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T08",
+      "name": "Title 8",
+      "description": "Tax Period, [Tax Return]s, Payment and Reclaiming of Tax",
+      "chapters": [
+        {
+          "ref": "T08C01",
+          "name": "Chapter 1",
+          "description": "Tax Period",
+          "articles": [
+            {
+              "ref": "T08C01A71",
+              "name": "Article (71) - Duration of Tax Period",
+              "content": "The Executive Regulation of this Decree-Law shall specify the [Tax Period] for which the [Taxable Person] shall calculate and pay Tax as well as the exceptional circumstances in which the [Authority] may amend the [Tax Period].",
+              "clauses": []
+            }
+          ]
+        },
+        {
+          "ref": "T08C02",
+          "name": "Chapter 2",
+          "description": "Tax Returns and Tax Payment",
+          "articles": [
+            {
+              "ref": "T08C02A72",
+              "name": "Article (72) - Submission of Tax Returns",
+              "content": "The Executive Regulation of this Decree-Law shall specify the [Tax Period] for which the [Taxable Person] shall calculate and pay Tax as well as the exceptional circumstances in which the [Authority] may amend the [Tax Period].",
+              "clauses": [
+                {
+                  "ref": "T08C02A72CL01",
+                  "name": "",
+                  "content": "The [Taxable Person] shall submit the [Tax Return] to the [Authority] at the end of each [Tax Period] within the time limits and according to the procedures specified in the Executive Regulation of this Decree-Law declaring all supplies made and received during that [Tax Period]."
+                },
+                {
+                  "ref": "T08C02A72CL02",
+                  "name": "",
+                  "content": "A Cabinet Decision shall be issued upon the recommendation of the [Minister], determining the [Government Entities] that may submit simplified [Tax Return]s to the [Authority]."
+                }
+              ]
+            },
+            {
+              "ref": "T08C02A73",
+              "name": "Article (73) - Payment of Tax",
+              "content": "The Executive Regulation of this Decree-Law shall specify the time limits and procedures for payment of Tax stated as payable in the [Tax Return] according to the provisions of this Decree-Law.",
+              "clauses": []
+            }
+          ]
+        },
+        {
+          "ref": "T08C03",
+          "name": "Chapter 3",
+          "description": "Carrying forward the Excess of Recoverable Tax and Tax Recovery",
+          "articles": [
+            {
+              "ref": "T08C03A74",
+              "name": "Article (74) - Excess Recoverable Tax",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T08C03A74CL01",
+                  "name": "",
+                  "content": "With the exception of what will be stipulated in the Executive Regulation of this Decree-Law, the [Taxable Person] shall carry forward any excess of [Recoverable Tax] to the subsequent [Tax Period]s and offset such excess against [Payable Tax] or any [Administrative Penalties] imposed under this Decree-Law or Federal Law No. (7) of 2017 on Tax Procedures in subsequent Tax Periods until such excess is fully utilised, in the following cases:",
+                  "paragraphs": [
+                    {
+                      "ref": "T08C03A74CL01PA",
+                      "name": "",
+                      "content": "If the [Taxable Person]’s Recoverable [Input Tax] set forth in this Decree-Law exceeds the [Output Tax] payable for the same [Tax Period]."
+                    },
+                    {
+                      "ref": "T08C03A74CL01PB",
+                      "name": "",
+                      "content": "If the Tax paid to the [Authority] by the [Taxable Person] exceeds the [Payable Tax] according to the provisions of this Decree-Law, other than in the instance mentioned in paragraph (a) of <LNKS>T08C03A74CL01PA<LNKC>Clause (1)<LNKE> of this Article."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T08C03A74CL02",
+                  "name": "",
+                  "content": "If there remains any excess for any [Tax Period] after being carried forward for a period of time, the [Taxable Person] may apply to the [Authority] to reclaim the remaining excess. The Executive Regulation of this Decree-Law shall specify the time limits, procedures and mechanisms of returning any remaining excess to the [Taxable Person]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ref": "T08C04",
+          "name": "Chapter 4",
+          "description": "Other Provisions on Recovery of Tax",
+          "articles": [
+            {
+              "ref": "T08C04A75",
+              "name": "Article (75) - Tax Recovery in Special Cases",
+              "content": "The [Authority] may according to the conditions, restrictions and procedures specified in the Executive Regulations of this Decree-Law, return Tax paid for any supply received by or [Import] carried out by anyone of the following:",
+              "clauses": [
+                {
+                  "ref": "T08C04A75CL01",
+                  "name": "",
+                  "content": "A A citizen of the [State] in respect of the [Goods] and [Services] related to the construction of a new residence that is not part of the Person’s [Business]."
+                },
+                {
+                  "ref": "T08C04A75CL02",
+                  "name": "",
+                  "content": "A [Non-Resident], who is not a Resident of an Implementing State and conducts a [Business] and is not a [Taxable Person]."
+                },
+                {
+                  "ref": "T08C04A75CL03",
+                  "name": "",
+                  "content": "A [Non-Resident], for [Goods] supplied to him in the [State] and that will be exported."
+                },
+                {
+                  "ref": "T08C04A75CL04",
+                  "name": "",
+                  "content": "Foreign governments, international organisations, diplomatic bodies and missions according to treaties that the [State] is a party to."
+                },
+                {
+                  "ref": "T08C04A75CL05",
+                  "name": "",
+                  "content": "Any Persons or classes listed in a Cabinet Decision issued at the suggestion of the [Minister]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T09",
+      "name": "Title 9",
+      "description": "Violations and Penalties",
+      "chapters": [
+        {
+          "ref": "T09COO",
+          "name": "",
+          "description": "",
+          "articles": [
+            {
+              "ref": "T09COOA76",
+              "name": "Article (76) - Administrative Penalties Assessment",
+              "content": "Without prejudice to the provisions of Federal Law No. (7) of 2017 on Tax Procedures, the [Authority] shall issue an Administrative Penalty Assessment to the [Person] and notify the [Person] of the same within five (5) business days as of the date of issuance in any of the following cases:",
+              "clauses": [
+                {
+                  "ref": "T09COOA76CL01",
+                  "name": "",
+                  "content": "Failure by the [Taxable Person] to display prices inclusive of Tax according to Article (38) of this Decree-Law."
+                },
+                {
+                  "ref": "T09COOA76CL02",
+                  "name": "",
+                  "content": "Failure by the [Taxable Person] to notify the [Authority] of applying Tax based on the margin according to Article (43) of this Decree-Law."
+                },
+                {
+                  "ref": "T09COOA76CL03",
+                  "name": "",
+                  "content": "Failure to comply with the conditions and procedures related to keeping the [Goods] in a [Designated Zone] or moving them to another [Designated Zone]."
+                },
+                {
+                  "ref": "T09COOA76CL04",
+                  "name": "",
+                  "content": "Failure by the [Taxable Person] to issue the Tax invoice or an alternative document when making any Supply."
+                },
+                {
+                  "ref": "T09COOA76CL05",
+                  "name": "",
+                  "content": "Failure by the [Taxable Person] to issue a [Tax Credit Note] or an alternative document."
+                },
+                {
+                  "ref": "T09COOA76CL06",
+                  "name": "",
+                  "content": "Failure by the [Taxable Person] to comply with the conditions and procedures regarding the issuance of electronic Tax Invoices and electronic Tax Credit Notes."
+                }
+              ]
+            },
+            {
+              "ref": "T09COOA77",
+              "name": "Article (77) - Tax Evasion",
+              "content": "If it is proven that a [Person] who is not a [Registrant]  acquires [Goods] referred to in <LNKS>T06C04A48CL03<LNKC>Clause (3) of Article 48<LNKE> of this Decree-Law, claiming that he is a [Registrant] , he shall be considered as having committed Tax Evasion and shall be subject to the penalties provided for in Federal Law No. (7) of 2017 on Tax Procedures.",
+              "clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T10",
+      "name": "Title 10",
+      "description": "General Provisions",
+      "chapters": [
+        {
+          "ref": "T10COO",
+          "name": "",
+          "description": "",
+          "articles": [
+            {
+              "ref": "T10COOA78",
+              "name": "Article (78) - Record-keeping",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T10COOA78CL01",
+                  "name": "",
+                  "content": "Without prejudice to the provisions related to record-keeping stated in any other law, the [Taxable Person] shall keep the following records:",
+                  "paragraphs": [
+                    {
+                      "ref": "T10COOA78CL01PA",
+                      "name": "",
+                      "content": "Records of all supplies and [Import]s of [Goods] and [Services]."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PB",
+                      "name": "",
+                      "content": "All Tax Invoices and alternative documents related to receiving [Goods] or [Services]."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PC",
+                      "name": "",
+                      "content": "All Tax Credit Notes and alternative documents received."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PD",
+                      "name": "",
+                      "content": "All Tax Invoices and alternative documents issued."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PE",
+                      "name": "",
+                      "content": "All Tax Credit Notes and alternative documents issued."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PF",
+                      "name": "",
+                      "content": "Records of [Goods] and [Services] that have been disposed of or used for matters not related to [Business], showing Taxes paid for the same."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PG",
+                      "name": "",
+                      "content": "Records of [Goods] and [Services] purchased and for which the [Input Tax] was not deducted."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PH",
+                      "name": "",
+                      "content": "Records of exported [Goods] and Services."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PI",
+                      "name": "",
+                      "content": "Records of adjustments or corrections made to accounts or Tax Invoices."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PJ",
+                      "name": "",
+                      "content": "Records of any Taxable Supplies made or received in accordance with <LNKS>T06C04A48CL03<LNKC>Clause (3) of Article 48<LNKE> of this Decree-Law, including any declarations provided or received in respect of those Taxable Supplies."
+                    },
+                    {
+                      "ref": "T10COOA78CL01PK",
+                      "name": "",
+                      "content": "A Tax Record that includes the following information:",
+                      "subparagaphs": [
+                        {
+                          "ref": "T10COOA78CL01PKSP01",
+                          "name": "",
+                          "content": "[Due Tax] on Taxable Supplies."
+                        },
+                        {
+                          "ref": "T10COOA78CL01PKSP02",
+                          "name": "",
+                          "content": "[Due Tax] on Taxable Supplies pursuant to the mechanism in <LNKS>T06C04A48CL01<LNKC>Clause (1) of Article 48<LNKE> of this Decree-Law."
+                        },
+                        {
+                          "ref": "T10COOA78CL01PKSP03",
+                          "name": "",
+                          "content": "[Due Tax] after the error correction or adjustment."
+                        },
+                        {
+                          "ref": "T10COOA78CL01PKSP04",
+                          "name": "",
+                          "content": "[Recoverable Tax] for supplies or [Import]s."
+                        },
+                        {
+                          "ref": "T10COOA78CL01PKSP05",
+                          "name": "",
+                          "content": "[Recoverable Tax] after the error correction or adjustment."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "ref": "T10COOA78CL02",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall specify the following:",
+                  "paragraphs": [
+                    {
+                      "ref": "T10COOA78CL02PA",
+                      "name": "",
+                      "content": "Time limits, restrictions and conditions for keeping the records listed in <LNKS>T10COOA78CL01<LNKC>Clause (1)<LNKE> of this Article."
+                    },
+                    {
+                      "ref": "T10COOA78CL02PA",
+                      "name": "",
+                      "content": "Restrictions and procedures regarding the maintenance of the confidentiality of the records that may be accessed by the [Authority] in the case of [Government Entities] mentioned under <LNKS>T08C02A72CL02<LNKC>Clause (2) of Article (72)<LNKE> of this Decree-Law."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "ref": "T10COOA79",
+              "name": "Article (79) - Record-keeping",
+              "content": "The [Taxable Person] or any other [Person] authorised in writing by him shall state the [Tax Registration]  Number on each [Tax Return], notification, [Tax Invoice], [Tax Credit Note], and any other document related to Tax or correspondence as required under this Decree-Law or said Federal Law No. (7) of 2017 on Tax Procedures.",
+              "clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "T11",
+      "name": "Title 11",
+      "description": "Closing Provisions",
+      "chapters": [
+        {
+          "ref": "T11COO",
+          "name": "",
+          "description": "",
+          "articles": [
+            {
+              "ref": "T11COOA80",
+              "name": "Article (80) - Transitional Rules",
+              "content": "",
+              "clauses": [
+                {
+                  "ref": "T11COOA80CL01",
+                  "name": "",
+                  "content": "If the supplier receives [Consideration] or part thereof or issues an invoice for [Goods] or [Services] before the Decree-Law comes into effect, the date of supply shall be the same as the effective date of the Decree-Law in the following instances if they occur after the effective date of the Decree-Law:",
+                  "paragraphs": [
+                    {
+                      "ref": "T11COOA80CL01PA",
+                      "name": "",
+                      "content": "Transfer of [Goods] under the supervision of the supplier."
+                    },
+                    {
+                      "ref": "T11COOA80CL01PB",
+                      "name": "",
+                      "content": "Placing the [Goods] at the recipient’s disposal."
+                    },
+                    {
+                      "ref": "T11COOA80CL01PC",
+                      "name": "",
+                      "content": "The completion of assembly or installation of the [Goods]."
+                    },
+                    {
+                      "ref": "T11COOA80CL01PD",
+                      "name": "",
+                      "content": "The issuance of the customs declaration."
+                    },
+                    {
+                      "ref": "T11COOA80CL01PE",
+                      "name": "",
+                      "content": "The acceptance by the Reciepient of [Goods] of the supply."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T11COOA80CL02",
+                  "name": "",
+                  "content": "If a contract has been concluded prior to the enforcement of this Decree-Law, regarding a supply to be wholly or partly made after the effective date of this Decree-Law, but such contract does not contain clauses related to Tax on the supply, it shall be treated as per the following:",
+                  "paragraphs": [
+                    {
+                      "ref": "T11COOA80CL02PA",
+                      "name": "",
+                      "content": "The [Consideration] shall be considered inclusive of Tax if chargeable according to this Decree-Law."
+                    },
+                    {
+                      "ref": "T11COOA80CL02PB",
+                      "name": "",
+                      "content": "Tax shall be calculated on the supply regardless of whether it has been taken into account when determining the [Consideration] for the supply."
+                    }
+                  ]
+                },
+                {
+                  "ref": "T11COOA80CL03",
+                  "name": "",
+                  "content": "The Executive Regulation of this Decree-Law shall set forth special provisions related to the implementation of this Decree-Law where a contract has been concluded before the effective date of the Decree-Law but the supply under the contract is wholly or partly made after the effective date of this Decree-Law."
+                }
+              ]
+            },
+            {
+              "ref": "T11COOA81",
+              "name": "Article (81) - Revenue Sharing",
+              "content": "Tax revenues and [Administrative Penalties] set forth in the provisions of this Decree-Law shall be subject to sharing between the Federal Government and the Emirates Governments based on the provisions of Federal Decree-Law No. (13) of 2016 On the Establishment of the Federal Tax Authority.",
+              "clauses": []
+            },
+            {
+              "ref": "T11COOA82",
+              "name": "Article (82) - Executive Regulation",
+              "content": "The Cabinet shall issue the Executive Regulation of this Decree-Law at the suggestion of the [Minister].",
+              "clauses": []
+            },
+            {
+              "ref": "T11COOA83",
+              "name": "Article (83) - Special Provision",
+              "content": "In case of absence of a special provision in this Decree-Law, the provisions of Federal Law No. (7) of 2017 on Tax Procedures shall be applied.",
+              "clauses": []
+            },
+            {
+              "ref": "T11COOA84",
+              "name": "Article (84) - Cancellation of Conflicting Provisions",
+              "content": "Any text or provisions contrary to or inconsistent with the provisions of this Decree-Law shall be abrogated.",
+              "clauses": []
+            },
+            {
+              "ref": "T11COOA85",
+              "name": "Article (85) - Cancellation of Conflicting Provisions",
+              "content": "This Decree-Law shall be published in the Official Gazette and shall come into effect as of  January 1, 2018.",
+              "clauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

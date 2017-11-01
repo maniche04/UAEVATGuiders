@@ -33,10 +33,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.latestNewsCard:
-                Intent myIntent = new Intent(MainActivity.this, NewsFeedActivity.class);
-                MainActivity.this.startActivity(myIntent);
-        }
+                Intent newsIntent = new Intent(MainActivity.this, NewsFeedActivity.class);
+                MainActivity.this.startActivity(newsIntent);
+                break;
 
+            case R.id.vatLawCard:
+                Intent lawIntent = new Intent(MainActivity.this, LawActivity.class);
+                MainActivity.this.startActivity(lawIntent);
+                break;
+        }
     }
 
 }
